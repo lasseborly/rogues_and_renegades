@@ -1,18 +1,17 @@
 # Preface {.unnumbered}
 
-**Copyright © 2006-2023 Chris Gonnerman – All Rights Reserved**
+**Basic Fantasy Role-Playing Game is Copyright © 2006-2023 Chris Gonnerman – All Rights Reserved**
 
-**Basic Fantasy Role-Playing Game**: 
+**Rogues & Renegades is based on Basic Fantasy Role-Playing Game**: 
 4th Edition, Release 128
 
-All textual materials in this document, as well as all maps, floorplans, diagrams, charts, and forms included herein, are distributed under the terms of the **Creative Commons Attribution-ShareAlike 4.0 International License**. Most other artwork presented is property of the original artist and is used with permission. Note that you may not publish or otherwise distribute this work as is without
-permission of the original artists; you must remove all non-licensed artwork before doing so. The full license text can be viewed at:
+All textual materials in this document, as well as all maps, floorplans, diagrams, charts, and forms included herein, are distributed under the terms of the **Creative Commons Attribution-ShareAlike 4.0 International License**. The full license text can be viewed at:
 
 https://creativecommons.org/licenses/by-sa/4.0/
 
 Some text used in the development of this document was retrieved from Wikipedia, and was originally licensed under the Creative Commons Attribution-ShareAlike 3.0 license.
 
-Credits from the PDF:
+Credits from the Basic Fantasy PDF:
 
 ::: {.column-screen-inset-right}
 
@@ -35,4 +34,4 @@ Some tools to check out:
 - Simple [Character Sheet](char_sheet.qmd) tool that comes along with this SRD
 - Another awesome [Character Sheet](https://codex.quest/) tool created by J. Garrett Vorbeck. 
 
-This website was created by John Atom (jmhimara). All its code and unique content are also distributed under the **Creative Commons Attribution-ShareAlike 4.0 International License**. 
+This website was created by Lasse Borly from the amazing work John Atom (jmhimara) did originally. All its code and unique content are also distributed under the **Creative Commons Attribution-ShareAlike 4.0 International License**. 
