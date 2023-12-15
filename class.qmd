@@ -49,7 +49,7 @@
 
 Clerics are those who have devoted themselves to the service of a deity, pantheon or other belief system. Most Clerics spend their time in mundane forms of service such as preaching and ministering in a temple; but there are those who are called to go abroad from the temple and serve their deity in a more direct way, smiting undead monsters and aiding in the battle against evil and chaos. Player character Clerics are assumed to be among the latter group.
 
-Clerics fight about as well as Thieves, but not as well as Fighters. They are hardier than Thieves, at least at lower levels, as they are accustomed to physical labor that the Thief would deftly avoid. Clerics can cast [spells of divine nature](spells.qmd#cleric-spells) starting at 2^nd^ level, and they have the power to Turn the Undead, that is, to drive away undead monsters by means of faith alone (see the [Encounter](combat.qmd#turning-the-undead) section for details).
+Clerics fight better than Wizards, but not as well as Fighters. They are hardier than Wizards, at least at lower levels, as they are accustomed to physical labor that the Wizard would deftly avoid. Clerics can cast [spells of divine nature](spells.qmd#cleric-spells) starting at 2^nd^ level, and they have the power to Turn the Undead, that is, to drive away undead monsters by means of faith alone (see the [Encounter](combat.qmd#turning-the-undead) section for details).
 
 The Prime Requisite for Clerics is Wisdom; a character must have a Wisdom score of 9 or higher to become a Cleric. They may wear any armor, but may only use blunt weapons (specifically including warhammer, mace, maul, club, quarterstaff, and sling).
 
