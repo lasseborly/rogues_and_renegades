@@ -113,7 +113,7 @@ A **Small Sack** will hold at most 20 pounds or 2 cubic feet of goods.
 
 A pair of **Saddlebags** will hold at most 10 pounds or 1 cubic foot of goods (divided evenly between both bags).
 
-**Thieves' Picks and Tools** are required for the use of Thief abilities such as opening locks and removing traps. These abilities may not be usable without appropriate tools, or may be used at a penalty at the option of the Game Master.
+**Thieves' Picks and Tools** are required for the use of Thievery such as opening locks and removing traps. These abilities may not be usable without appropriate tools, or may be used at a penalty at the option of the Game Master.
 
 A **Tinderbox** is generally purchased with a **flint and steel**; the flint, a piece of hard rock, is struck vigorously against a C-shaped piece of high-carbon steel. When done correctly, hot sparks will fly from the flint and steel into the tinder, hopefully starting a fire. The best tinder is a dried piece of prepared tinder fungus, carried in the tinderbox to keep it dry; char cloth, hemp rope, or even very dry grass can substitute if prepared tinder fungus is not available. The time required to start a fire should be determined by the GM according to the prevailing conditions; under ideal conditions, starting a fire with a flint, steel and tinder takes about a turn.
 

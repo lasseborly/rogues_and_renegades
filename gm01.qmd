@@ -208,7 +208,7 @@ generalTableSelect([2,6,0],[[ 2 , 2 ],[ 3 , 3 ],[ 4 , 4 ],[ 5 , 5 ],[ 6 , 6 ],[ 
 
 :::
 
-**Beggar** encounters will often begin with a single beggar approaching the party, but there will generally be 2d4 beggars in the area, and if any party member gives anything to the first beggar, the others will descend on the party like flies. Each beggar is 90% likely to be a normal man, and 10% likely to be a 1^st^ level Thief, possibly scouting for the Thieves Guild or a local gang.
+**Beggar** encounters will often begin with a single beggar approaching the party, but there will generally be 2d4 beggars in the area, and if any party member gives anything to the first beggar, the others will descend on the party like flies. Each beggar is 90% likely to be a normal man, and 10% likely to be a 1^st^ level Figther, possibly scouting for the Thieves Guild or a local gang.
 
 **Bully** encounters will be with 2d4 young toughs; each is 70% likely to be a normal man, 30% likely to be a 1^st^ level Fighter. Bullies generally appear unarmed, depending on their brawling ability in a fight (but keeping a dagger or shortsword hidden, to be used in case the fight is going against them). Bullies can be a bit unpredictable, such that the GM may want to use a reaction roll to determine the leader's mood.
 
@@ -232,7 +232,7 @@ generalTableSelect([2,6,0],[[ 2 , 2 ],[ 3 , 3 ],[ 4 , 4 ],[ 5 , 5 ],[ 6 , 6 ],[ 
 
 **Shadow** encounters in a town will be much like the same encounter underground; see the monster description for details.
 
-**Thief** encounters will be with a group of 1d6 Thieves, generally disguised as ordinary townsmen or sometimes as beggars. One Thief in the group will be from 2^nd^ to 4^th^ level, with the others being 1^st^ level only. They will seek to steal from the party, of course, unless watched very carefully.
+**Thief** encounters will be with a group of 1d6 Figthers, generally disguised as ordinary townsmen or sometimes as beggars. One Figther in the group will be from 2^nd^ to 4^th^ level, with the others being 1^st^ level only. They will seek to steal from the party, of course, unless watched very carefully.
 
 **Wizard** encounters will involve a Wizard of 4^th^ through 7^th^ level, accompanied by 1d4-1 apprentices of 1^st^ level. The GM must decide on the temperament and mood of the wizard.
 
@@ -248,7 +248,7 @@ The party may be rivals with the player characters, vying for the same treasures
 
 ### **Bandits, Brigands, and Highwaymen**
 
-A party of bandits will generally consist of 2d12 1^st^ level Fighters and 1d6 1^st^ level Thieves, led by a Fighter or Thief of 2^nd^ to 5^th^ level (1d4+1) or by one of each class (if there are 11 or more 1^st^ level members total). In the wilderness, bandits will generally have horses or other steeds appropriate to the terrain (stolen, of course) as well as light armor, swords and bows or crossbows. Determine magic items as given below for the leaders only; rank-and-file members will not normally have magic items.
+A party of bandits will generally consist of 2d12 1^st^ level Fighters, led by a Fighter of 2^nd^ to 5^th^ level (1d4+1). In the wilderness, bandits will generally have horses or other steeds appropriate to the terrain (stolen, of course) as well as light armor, swords and bows or crossbows. Determine magic items as given below for the leaders only; rank-and-file members will not normally have magic items.
 
 In their lair or hideout, a party of bandits will generally have type A treasure (with magic items omitted since they will have already been generated using the rules below).
 
@@ -276,7 +276,7 @@ Lower-ranking nobles (such as barons) will have a single wagon or carriage, draw
 
 A noble will usually be traveling with a little spending money; a type A treasure should be rolled to represent this. In this case, do not omit the magic items, as nobles will generally be more wealthy than the average party of men.
 
-Nobles are usually (70%) normal men; otherwise, roll 1d10: 1-6 indicates a Fighter, 7-8 indicates a Wizard, 9 indicates a Cleric, and 10 indicates a Thief. (Clerical "nobles" are bishops, archbishops, and the like.) Roll 2d4-1 for the level of each "classed" noble.
+Nobles are usually (70%) normal men; otherwise, roll 1d10: 1-6 indicates a Fighter, 7-8 indicates a Wizard, 9 indicates a Cleric, and 10 indicates a Paladin. (Clerical "nobles" are bishops, archbishops, and the like.) Roll 2d4-1 for the level of each "classed" noble.
 
 ### **Pilgrims**
 
@@ -399,11 +399,11 @@ Several races and classes have weapon and/or armor restrictions applied to them.
 
 **Clerics:** The prohibition against edged weapons is a matter of faith for Clerics. Therefore, if a Cleric uses a prohibited weapon, he or she immediately loses access to his or her spells as well as the power to Turn the Undead. A higher-level NPC Cleric of the same faith must assign some quest to the miscreant which must be completed in order for the fallen Cleric to atone and regain his or her powers. If unrepentant, the character is changed permanently from a Cleric to a Fighter. Refigure the character's level, applying the current XP total to the Fighter table to determine this. Hit points and attack bonus remain the same; change the attack bonus only after a new level is gained as a Fighter, and roll Fighter hit dice as normal when levels are gained.
 
-**Wizards:** These characters are simply untrained in any weapon other than those normally allowed to them, and should suffer a -5 attack penalty when using any prohibited weapon. A Wizard in armor can't cast spells at all; any such attempt fails, and the spell is lost.
+**Wizards:** These characters are simply untrained in any weapon other than those normally allowed to them, and should roll the attack with disadvantage when using any prohibited weapon. A Wizard in armor can't cast spells at all; any such attempt fails, and the spell is lost.
 
-**Thieves:** Wearing armor heavier, more restrictive and/or noisier than leather armor prevents the use of any Thief ability, including the Sneak Attack ability. Thieves may choose to wear such armor, but this only makes them a poor excuse for a Fighter.
+**Thievery:** Wearing armor heavier, more restrictive and/or noisier than leather armor reduces Pick Pockets, Move Silently, Climb Walls and Hide by 2 to a minimum of 1 in 6.
 
-**Dwarves and Halflings:** These characters are prohibited from using large weapons, mainly due to their small stature and relatively low weight. It's hard to swing a weapon when the weapon is trying to swing you. If such a character tries to use a prohibited weapon, the Game Master may either apply a -5 attack penalty based on the difficulty of using the weapon, or alternately declare the attempt unsuccessful, at his or her option.
+**Dwarves and Halflings:** These characters are prohibited from using large weapons, mainly due to their small stature and relatively low weight. It's hard to swing a weapon when the weapon is trying to swing you. If such a character tries to use a prohibited weapon, the attack roll will be made with disadvantage.
 
 ### Judging Wishes
 
@@ -480,10 +480,6 @@ Sometimes a Wizard will want to prepare spells, but his or her spellbook may be 
 A Wizard can always prepare **read magic** from memory. Other spells require an Intelligence ability roll, as described above, with the spell level as a penalty on the die roll.
 
 Failure exhausts the spell slot being prepared, just as if it had been successfully prepared and then cast; so if a 5^th^ level Wizard attempts to prepare **fireball** from memory, and fails, he or she will have no 3^rd^ level spells for the day.
-
-### Thief Abilities
-
-Some players of Thieves may wish to have more control over their Thief abilities. If you study the Thief Abilities table, you'll discover its secret: from levels 2-9, the Thief improves 30 percentiles (total) each level; from levels 10-15, 20 percentiles; and from level 16 on, 10 percentiles. If you wish to allow Thief customization, simply let the player allocate these points as he or she wishes rather than following the table. Allow no more than 10 percentiles to be added to any single Thief ability per level gain. Note also that no Thief ability may be raised above 99 percent.
 
 ## Magical Research
 

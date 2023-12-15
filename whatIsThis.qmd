@@ -3,7 +3,7 @@
 
 _It was our third foray into the dungeons beneath the ancient fortress in the middle of the river.  We were on the second level down from the ruins, standing before the great bronze doors beyond which we believed lay the tomb of an ancient barbarian chieftain.  I hadn't believed the tales of the old drunk at the tavern back at Morgansfort, but for some reason Apoqulis, the Cleric, believed him.  Turned out his stories were true… mostly, anyway._
 
-_I held a torch for Barthal, the Thief, as he tried briefly to pick the lock.  He turned around and said, "It must be held by magic.  The lock won't even wiggle."_
+_I held a torch for Barthal, as he tried briefly to pick the lock.  He turned around and said, "It must be held by magic.  The lock won't even wiggle."_
 
 _Morningstar, the Elf, smiled.  "I have just the thing," she said, drawing from her backpack the scroll we took from the goblins.  She unrolled it and began to read, and though I couldn't understand her words I could see the characters burning away as she read them, little wisps of smoke as from a candle rising up from each in turn. Seeing that she was nearly through, I turned my attention to the lock.  I'm not sure what I was expecting, but the little puff of dust that came from it as she finished didn't seem like much.  She turned to Barthal and said, "Try again."_
 
@@ -66,7 +66,7 @@ If you are the Game Master, you need all of the above. If this is your first tim
 The 20 sided die, or **d20**, is one of the most important dice in the game: it is used to resolve attack rolls and saving throws (concepts that will be explained later).  In general, the die is rolled, modifiers added or subtracted, and if the total result equals or exceeds a target number, the roll is a success; otherwise it has failed.
 
 
-The 10 sided die, or **d10**, is used to generate numbers from 1 to 10; it is numbered 0 to 9, but a roll of 0 is normally counted as 10.  A pair of d10's are also used together to generate numbers from 1 to 100, where a roll of 00 is counted as 100.  The two dice should be different colors, and the player must declare which is the tens die and which is the ones die before rolling them!  (Or, the player may have a die marked with double digits, as shown.) Rolling two d10's in this way is called a **percentile roll**, or **d%**.  These rolls are generally against target numbers, but for the roll to be a success, the result must be equal to or less than the target number.  So for example, a character using a Thief ability (described later) with a 30% chance of success rolls the dice: if the result is 01 to 30, the roll is a success.
+The 10 sided die, or **d10**, is used to generate numbers from 1 to 10; it is numbered 0 to 9, but a roll of 0 is normally counted as 10.  A pair of d10's are also used together to generate numbers from 1 to 100, where a roll of 00 is counted as 100.  The two dice should be different colors, and the player must declare which is the tens die and which is the ones die before rolling them!  (Or, the player may have a die marked with double digits, as shown.) Rolling two d10's in this way is called a **percentile roll**, or **d%**.  These rolls are generally against target numbers, but for the roll to be a success, the result must be equal to or less than the target number.
 
 
 

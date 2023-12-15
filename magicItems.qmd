@@ -871,7 +871,7 @@ are available in the area of effect, skeletons will be
 animated in preference over zombies. If the user is a
 wizard or cleric, the created undead may be
 controlled so long as that character retains the device.
-If played by a fighter or thief, the undead created will
+If played by a fighter, the undead created will
 be uncontrolled, and will attack any living creatures
 nearby. The device may be used once per day, but no
 more than 18 hit dice of undead created by it may exist
@@ -1025,8 +1025,7 @@ power is exhausted.
 
 **Stealth**: The wearer of this device can move quietly in
 virtually any surroundings, granting a 90% chance of
-success when moving silently (as the Thief ability of the
-same name).
+success when moving silently.
 
 **Telekinesis**: The wearer of this device can use the
 power of the spell [telekinesis](allSpells.qmd#telekinesis), as if cast by a 12th level

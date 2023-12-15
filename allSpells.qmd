@@ -1233,13 +1233,9 @@ sort is usually at half normal walking speed. The
 subject cannot, however, change its own altitude.
 
 If a levitating creature attempts to attack with most
-weapons it will find that it is unstable. The first such
-attack is made at a penalty of -1 on the attack roll, and
-this penalty worsens by an additional -1 each round to
-a maximum penalty of -5. Should the creature refrain
-from making an attack for a full round, it is reduced to
-the -1 penalty level on the next round. This does not
-usually affect spellcasting while levitated, however.
+weapons it will find that it is unstable. Attacks are made
+with disadvantage. This does not usually affect spellcasting
+while levitated, however.
 
 </div>
 <div class="spell" data-tag="Light*" id="Light*">

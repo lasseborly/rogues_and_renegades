@@ -20,7 +20,7 @@ Each character will have a score ranging from 3 to 18 in each of the following a
 
 **Wisdom:** A combination of intuition, willpower and common sense. Wisdom is the Prime Requisite for [Clerics](class.qmd#cleric). The Wisdom bonus or penalty may apply to some saving throws vs. magical attacks, particularly those affecting the target's will.
 
-**Dexterity:** This ability measures the character's quickness and balance as well as aptitude with tools. Dexterity is the Prime Requisite for [Thieves](class.qmd#thief). The Dexterity bonus or penalty is applied to all [attack rolls](combat.qmd#attacking-maneuvers) with missile (ranged) weapons, to the character's [Armor Class](equipment.qmd#armor-and-shields) value, and to the character's [Initiative](combat.qmd#initiative) die roll.
+**Dexterity:** This ability measures the character's quickness and balance as well as aptitude with tools. The Dexterity bonus or penalty is applied to all [attack rolls](combat.qmd#attacking-maneuvers) with missile (ranged) weapons, to the character's [Armor Class](equipment.qmd#armor-and-shields) value, and to the character's [Initiative](combat.qmd#initiative) die roll.
 
 **Constitution:** A combination of general health and vitality. Apply the Constitution bonus or penalty to each hit die rolled by the character. Note that a penalty here will not reduce any hit die roll to less than 1 point.
 

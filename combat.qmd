@@ -167,7 +167,7 @@ opponent is within reach
 
 To roll "to hit," the attacker rolls 1d20 and adds his or her attack bonus (AB), as shown on the Attack Bonus table, as well as **Strength** bonus (if performing a melee attack) or **Dexterity** bonus (if performing a missile or ranged attack) and any other adjustments required by the situation. If the total is equal to or greater than the opponent's Armor Class, the attack hits and damage is rolled. A natural "1" on the die roll is always a failure. A natural "20" is always a hit, if the opponent can be hit at all (for example, monsters that can only be hit by silver or magic weapons cannot be hit by normal weapons, so a natural "20" with a normal weapon will not hit such a monster).
 
-| Fighter Level | Cleric or Thief Level | Wizard Level | Monster Hit Dice | Attack Bonus |
+| Fighter Level | Cleric level | Wizard Level | Monster Hit Dice | Attack Bonus |
 |---|---|----|----|----|
 |  <em id="NM"> NM </em> |  |  | less than 1 | +0 |
 | 1 | 1-2 | 1-3 | 1 | +1 |
@@ -191,7 +191,7 @@ To roll "to hit," the attacker rolls 1d20 and adds his or her attack bonus (AB),
 
 #### Attacking from Behind
 
-Attacks made from behind an opponent usually receive a +2 attack bonus. This does not combine with the [Sneak Attack](class.qmd#thief-abilities) ability.
+Attacks made from behind an opponent usually receive a +2 attack bonus. This does not combine with the [Sneak Attack](class.qmd#thievery-abilities) ability.
 
 #### Normal Men
 
@@ -213,7 +213,7 @@ Melee occurs after a character has closed for combat and strikes at a monster or
 
 Missile weapons may be used to attack foes at a distance. The distance the attacker is from his target affects the attack roll, as shown on the [Missile Weapon Ranges](equipment.qmd#missile-weapon-ranges) table. In general, opponents within Short range are attacked at +1 on the die, those beyond Short range but within Medium range are attacked at +0, and those beyond Medium but within Long range are attacked at -2. Foes beyond Long range cannot be effectively attacked.
 
-If a character attempts to use a missile weapon against a foe who is within 5' of him or her (i.e. who is engaged with the shooter), a penalty of -5 is applied to the attack roll. This is due to the shooter dodging around to avoid the foe's attacks. The only exception is if the attacker is behind the target creature and undetected, or that creature is distracted so as to not be able to attack the shooter; in these cases, apply the usual +1 bonus (+3 total bonus if attacking from behind).
+If a character attempts to use a missile weapon against a foe who is within 5' of him or her (i.e. who is engaged with the shooter), the attack roll is made with disadvantage. This is due to the shooter dodging around to avoid the foe's attacks. The only exception is if the attacker is behind the target creature and undetected, or that creature is distracted so as to not be able to attack the shooter; in these cases, apply the usual +1 bonus (+3 total bonus if attacking from behind).
 
 #### Cover and Concealment
 
@@ -389,7 +389,7 @@ ${res}
 
 ### Energy Drain
 
-Sometimes characters are exposed to energy drain from undead or evil magic. Such energy drain is manifested in the form of "negative levels." For each negative level a victim receives, he or she suffers a semi-permanent loss of one hit die worth of hit points, a penalty of -1 on all attack and saving throw rolls (and any other roll made on 1d20), and -5% to any percentile roll such as thief abilities. In addition, an affected spell caster loses access to one of his or her highest-level spell slots. The victim may or may not be allowed a saving throw to resist the effect (depending on the specific monster type).
+Sometimes characters are exposed to energy drain from undead or evil magic. Such energy drain is manifested in the form of "negative levels." For each negative level a victim receives, he or she suffers a semi-permanent loss of one hit die worth of hit points, a penalty of -1 on all attack and saving throw rolls (and any other roll made on 1d20), and -1 to any thievery roll. In addition, an affected spell caster loses access to one of his or her highest-level spell slots. The victim may or may not be allowed a saving throw to resist the effect (depending on the specific monster type).
 
 If the character's hit points are reduced to zero or less by means of energy drain, the victim is immediately slain. If the energy drain is caused by an undead monster, the victim will usually be transformed into that sort of undead (exact details vary by type of monster).
 
@@ -525,6 +525,3 @@ The GM should feel free to amend this rule as he or she wishes; for instance, a 
 | **16-17** | 7 | 9 | 9 | 8 | 9 |
 | **18-19** | 7 | 9 | 8 | 7 | 9 |
 | **20** | 6 | 8 | 8 | 6 | 8 |
-
-: Thief Saving Throws {#tbl-save-thief-2}
-
