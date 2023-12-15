@@ -13,7 +13,7 @@ Choose a race and class for your character. Your character must meet the Prime R
 
 ![Character Information](./images/char.png){#fig-char-info}
 
-Write down the special abilities of your race and class choices, as described below. If you have chosen to play a Magic-User, ask your Game Master what spell or spells your character knows; it's up to the Game Master to decide this, but he or she may allow you to choose one or more spells yourself.
+Write down the special abilities of your race and class choices, as described below. If you have chosen to play a Wizard, ask your Game Master what spell or spells your character knows; it's up to the Game Master to decide this, but he or she may allow you to choose one or more spells yourself.
 
 Note on your character sheet that your character has zero (0) experience points (or XP); also you may want to note the number needed to advance to second level, as shown in the table for your class.
 

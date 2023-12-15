@@ -163,9 +163,9 @@ they are led by any of their leaders.
 In addition, a lair has a chance equal to 1-2 on 1d6 of a
 wizard being present (or 1-3 on 1d6 if a chieftain is
 present). A wizard is equivalent to a 1 hit die warrior
-barkling statistically, but has Magic-User abilities at level
+barkling statistically, but has Wizard abilities at level
 1d4+1. For XP purposes, treat the wizard barkling as if
-it has a number of hit dice equal to its magic-user level
+it has a number of hit dice equal to its wizard level
 -1, and assign one special ability bonus asterisk.
 
 Barklings are sometimes confused with kobolds, for
@@ -1200,7 +1200,7 @@ Dragons are large (sometimes very large) winged reptilian monsters. Unlike wyver
 
 If one dragon is encountered, it is equally likely to be a male or female ranging from -2 to +3 hit dice (1d6-3); two are a mated pair ranging from -1 to +2 hit dice (1d4-2). If three or four are encountered, they consist of a mated pair plus one or two young of -3 hit dice in size. If this is the case, the parents receive a Morale of 12 in combat since they are protecting their young.
 
-In combat dragons use a powerful bite, slashing claws, a long, whiplike tail, and most famously some form of breath weapon. Tactically, dragons prefer to fight while flying, making passes over ground-based enemies to strike or breathe on them. Smarter and older dragons will look for the toughest or most dangerous foe to strike down first, particularly preferring to eliminate magic-users as early in a fight as possible.
+In combat dragons use a powerful bite, slashing claws, a long, whiplike tail, and most famously some form of breath weapon. Tactically, dragons prefer to fight while flying, making passes over ground-based enemies to strike or breathe on them. Smarter and older dragons will look for the toughest or most dangerous foe to strike down first, particularly preferring to eliminate wizards as early in a fight as possible.
 
 Each dragon can use its breath weapon as many times per day as it has hit dice, except that dragons of the lowest age category do not yet have a breath weapon. The breath may be used no more often than every other round, and the dragon may use its claws and tail in the same round. The tail swipe attack may only be used if there are opponents behind the dragon, while the claws may be used only on those opponents in front of the creature. Due to their serpentine necks, dragons may bite in any direction, even behind them.
 
@@ -1660,7 +1660,7 @@ Due to their massive size, dragon turtles are immune to virtually all poisons.
 | Damage: | 1d4 |
 | Movement: | 40' |
 | No. Appearing: | Lair 1d6 |
-| Save As: | Magic-User: 4 |
+| Save As: | Wizard: 4 |
 | Morale: | 6 |
 | Treasure Type: | D |
 | XP: | 100 |
@@ -1795,7 +1795,7 @@ Each type of elemental may be summoned to the
 material plane by means of one of three different
 methods:
 
-Conjured by the 5th level Magic-User spell [conjure elemental](allSpells.qmd#conjure-elemental); or,
+Conjured by the 5th level Wizard spell [conjure elemental](allSpells.qmd#conjure-elemental); or,
 
 Summoned by means of a magical **staff**; or,
 
@@ -2344,9 +2344,9 @@ A ghost that hits a living target with its touch attack does 1d8 points of damag
 
 Lost Constitution can be regained at a rate of one point per casting of **restoration**; nothing else (except a **wish**) can restore Constitution lost to a ghost. If a character's Constitution falls to 0, he or she dies permanently and cannot be **raised** (but still may be **reincarnated**).
 
-Once per turn, a ghost can use **telekinesis** (as the spell) as if it were a 10^th^ level Magic-User.
+Once per turn, a ghost can use **telekinesis** (as the spell) as if it were a 10^th^ level Wizard.
 
-Instead of attacking, a ghost may attempt to possess a living creature. This ability is similar to a **magic jar** spell (as if cast by a 10th level Magic-User), except that it does not require a receptacle. To use this ability, the ghost must be able to move into the target (so it is possible to outrun it). The target can resist the attack with a successful save vs. Spells. A creature that successfully saves is immune to being possessed by that ghost for 24 hours. If the save fails, the ghost enters the target's body and controls it; control may be maintained until the ghost chooses to leave the victim's body, or until it is driven out by means of a **remove curse** spell. While it is possessing a living creature, a ghost may not use any of its special abilities.
+Instead of attacking, a ghost may attempt to possess a living creature. This ability is similar to a **magic jar** spell (as if cast by a 10th level Wizard), except that it does not require a receptacle. To use this ability, the ghost must be able to move into the target (so it is possible to outrun it). The target can resist the attack with a successful save vs. Spells. A creature that successfully saves is immune to being possessed by that ghost for 24 hours. If the save fails, the ghost enters the target's body and controls it; control may be maintained until the ghost chooses to leave the victim's body, or until it is driven out by means of a **remove curse** spell. While it is possessing a living creature, a ghost may not use any of its special abilities.
 
 </div>
 <div class="monster" data-tag="Ghoul" data-tag2="Ghast" >
@@ -2453,7 +2453,7 @@ Cloud giants' skin ranges in color from milky white to light sky blue. They have
 
 Cloud giants dress in the finest clothing available and wear jewelry. To many, appearance indicates station: The better the clothes and the finer the jewelry, the more important the wearer. They also appreciate music, and most can play one or more instruments (the harp is a favorite). Like most giants, they are suspicious of the smaller races, but cloud giants do not usually prey upon them, preferring instead to demand tribute from humans, demi-humans, or humanoids living nearby.
 
-Cloud giants fight in well-organized units, using carefully developed battle plans. They prefer to fight from a position above their opponents. Cloud giants can throw large stones up to 200' for 3d6 points of damage each. Also, 5% of cloud giants have the abilities of a Magic-User of level 2 to 8 (2d4). A favorite tactic is to circle the enemies, barraging them with rocks while the giants with magical abilities confound them with spells. In battle, cloud giants wear finely crafted, intricately engraved plate mail.
+Cloud giants fight in well-organized units, using carefully developed battle plans. They prefer to fight from a position above their opponents. Cloud giants can throw large stones up to 200' for 3d6 points of damage each. Also, 5% of cloud giants have the abilities of a Wizard of level 2 to 8 (2d4). A favorite tactic is to circle the enemies, barraging them with rocks while the giants with magical abilities confound them with spells. In battle, cloud giants wear finely crafted, intricately engraved plate mail.
 
 </div>
 <div class="monster" data-tag="Giant, Cyclops" >
@@ -2679,7 +2679,7 @@ Adult storm giants are about 21 feet tall and weigh about 12,000 pounds. They ca
 
 Storm giants generally dress in short, loose tunic belted at the waist, sandals or bare feet, and a headband. They wear a few pieces of simple but finely crafted jewelry, anklets (favored by barefoot giants), rings, or circlets being most common. They live quiet, reflective lives and spend their time musing about the world, composing and playing music, and tilling their land or gathering food.
 
-Storm giants prefer to attack first with their **lightning bolts** (which work just as the spell does, and can be used once per five rounds; a save vs. Spells reduces damage to half). Also, 10% of storm giants have the abilities of a Magic-User of level 2 to 12 (2d6). In battle, they wear well-crafted and well-cared-for plate mail.
+Storm giants prefer to attack first with their **lightning bolts** (which work just as the spell does, and can be used once per five rounds; a save vs. Spells reduces damage to half). Also, 10% of storm giants have the abilities of a Wizard of level 2 to 12 (2d6). In battle, they wear well-crafted and well-cared-for plate mail.
 
 Unlike most other giants, storm giants have been known to befriend humans, elves, or dwarves.
 
@@ -2705,7 +2705,7 @@ Gnolls are hyena-headed, evil humanoids that wander in loose tribes. Most gnolls
 
 Gnolls are nocturnal, and have Darkvision with a 30' range. They are cruel carnivores, preferring intelligent creatures for food because they scream more. They show little discipline when fighting unless they have a strong leader.
 
-One out of every six gnolls will be a hardened warrior of 4 Hit Dice (240 XP) having a +1 bonus to damage due to strength. Gnolls gain a +1 bonus to their morale if they are led by such a warrior. In lairs of 12 or greater, there will be a pack leader of 6 Hit Dice (500 XP) having a +2 bonus to damage. In the lair, gnolls never fail a morale check as long as the pack leader is alive. In addition, a lair has a chance equal to 1-2 on 1d6 of a shaman being present, and 1 on 1d6 of a witch or warlock. A shaman is equivalent to a hardened warrior statistically, and in addition has Clerical abilities at level 1d4+1. A witch or warlock is equivalent to a regular gnoll, and has Magic-User abilities of level 1d4.
+One out of every six gnolls will be a hardened warrior of 4 Hit Dice (240 XP) having a +1 bonus to damage due to strength. Gnolls gain a +1 bonus to their morale if they are led by such a warrior. In lairs of 12 or greater, there will be a pack leader of 6 Hit Dice (500 XP) having a +2 bonus to damage. In the lair, gnolls never fail a morale check as long as the pack leader is alive. In addition, a lair has a chance equal to 1-2 on 1d6 of a shaman being present, and 1 on 1d6 of a witch or warlock. A shaman is equivalent to a hardened warrior statistically, and in addition has Clerical abilities at level 1d4+1. A witch or warlock is equivalent to a regular gnoll, and has Wizard abilities of level 1d4.
 
 </div>
 <div class="monster" data-tag="Gnome" >
@@ -2731,7 +2731,7 @@ Gnomes generally wear leather or earth tones, though they decorate their clothes
 
 Gnomes speak their own language, Gnomish, and many know the language of the dwarves. Most gnomes who travel outside gnome lands (as traders or tinkers) know Common, while warriors in gnome settlements usually learn Goblin. Gnomes encountered in the wilderness are likely to be unfriendly, but not hostile. They tolerate dwarves but dislike most other humanoid races. When forced to interact with other races, a gnome will generally be recalcitrant, unless offered a significant amount of treasure.
 
-Most gnomes encountered outside their home are warriors; the statistics above are for such. In the lair, for every warrior there will be an average of three civilians having 1-1 Hit Dice and Armor Class 11; such gnomes have Morale of 7. One out of every eight gnome warriors will be a sergeant having 3 Hit Dice (145 XP). Gnomes gain a +1 bonus to their morale if they are led by a sergeant. Both warriors and sergeants commonly wear chainmail. In gnomish communities, one out of every sixteen warriors will be a captain of 5 Hit Dice (360 XP) with an Armor Class of 16 (11), adding a shield. In addition, in communities of 35 or greater, there will be a king of 7 Hit Dice (670 XP), with an Armor Class of 18 (11), in plate mail and carrying a shield, having a +1 bonus damage due to strength. In their community, gnomes never fail a morale check as long as the king is alive. There is a chance equal to 1-4 on 1d6 that a community will have a Cleric of level 1d6+1, and 1-2 on 1d6 of a Magic-User of level 1d6. Gnomish Clerics and Magic-Users are equivalent to regular gnomish warriors statistically.
+Most gnomes encountered outside their home are warriors; the statistics above are for such. In the lair, for every warrior there will be an average of three civilians having 1-1 Hit Dice and Armor Class 11; such gnomes have Morale of 7. One out of every eight gnome warriors will be a sergeant having 3 Hit Dice (145 XP). Gnomes gain a +1 bonus to their morale if they are led by a sergeant. Both warriors and sergeants commonly wear chainmail. In gnomish communities, one out of every sixteen warriors will be a captain of 5 Hit Dice (360 XP) with an Armor Class of 16 (11), adding a shield. In addition, in communities of 35 or greater, there will be a king of 7 Hit Dice (670 XP), with an Armor Class of 18 (11), in plate mail and carrying a shield, having a +1 bonus damage due to strength. In their community, gnomes never fail a morale check as long as the king is alive. There is a chance equal to 1-4 on 1d6 that a community will have a Cleric of level 1d6+1, and 1-2 on 1d6 of a Wizard of level 1d6. Gnomish Clerics and Wizards are equivalent to regular gnomish warriors statistically.
 
 </div>
 <div class="monster" data-tag="Goblin" >
@@ -3240,7 +3240,7 @@ Hobgoblins are larger cousins of goblins, being about the same size as humans. T
 
 Hobgoblins are cruel and calculating warriors, always looking to exploit those weaker than themselves. They have a strong grasp of strategy and tactics and are capable of carrying out sophisticated battle plans. Under the leadership of a skilled strategist or tactician, their discipline can prove a deciding factor. Hobgoblins hate elves and attack them first in preference over other opponents.
 
-One out of every six hobgoblins will be a warrior of 3 Hit Dice (145 XP). Regular hobgoblins gain a +1 bonus to their morale if they are led by a warrior. In hobgoblin lairs, one out of every twelve will be a chieftain of 5 Hit Dice (360 XP) in chainmail with an Armor Class of 15 (11) and a movement of 20', having a +1 bonus to damage due to strength. In lairs of 30 or greater, there will be a hobgoblin king of 7 Hit Dice (670 XP), adding a shield for an Armor Class of 16 (11) (movement is still 20') having a +2 bonus to damage. In the lair, hobgoblins never fail a morale check as long as the king is alive. In addition, a lair has a chance equal to 1-2 on 1d6 of a shaman being present (or 1-3 on 1d6 if a hobgoblin king is present), and 1 on 1d6 of a witch or warlock. A shaman is equivalent to a hobgoblin warrior statistically, but has Clerical abilities at level 1d6+1. A witch or warlock is equivalent to a regular hobgoblin, but has Magic-User abilities of level 1d6.
+One out of every six hobgoblins will be a warrior of 3 Hit Dice (145 XP). Regular hobgoblins gain a +1 bonus to their morale if they are led by a warrior. In hobgoblin lairs, one out of every twelve will be a chieftain of 5 Hit Dice (360 XP) in chainmail with an Armor Class of 15 (11) and a movement of 20', having a +1 bonus to damage due to strength. In lairs of 30 or greater, there will be a hobgoblin king of 7 Hit Dice (670 XP), adding a shield for an Armor Class of 16 (11) (movement is still 20') having a +2 bonus to damage. In the lair, hobgoblins never fail a morale check as long as the king is alive. In addition, a lair has a chance equal to 1-2 on 1d6 of a shaman being present (or 1-3 on 1d6 if a hobgoblin king is present), and 1 on 1d6 of a witch or warlock. A shaman is equivalent to a hobgoblin warrior statistically, but has Clerical abilities at level 1d6+1. A witch or warlock is equivalent to a regular hobgoblin, but has Wizard abilities of level 1d6.
 
 </div>
 <div class="monster" data-tag="Hydra" >
@@ -5056,7 +5056,7 @@ Common, Elvish, and/or Dragon.
 
 Flame and frost salamanders hate each other, and each
 type will attack the other on sight, in preference over
-any other foe. If summoned by a Magic-User, a
+any other foe. If summoned by a Wizard, a
 salamander is often assigned to protect a location,
 doorway, or treasure hoard; in such a case, the
 salamander will attack anyone attempting to gain
@@ -5375,7 +5375,7 @@ wails.
 | Treasure Type: | None |
 | XP: | 25 |
 
-Skeletons are mindless **undead** created by an evil Magic-User or Cleric, generally to guard a tomb or treasure hoard, or to act as guards for their creator. They take only ½ damage from edged weapons, and only a single point from arrows, bolts or sling stones (plus any magical bonus). As with all undead, they can be **Turned** by a Cleric, and are immune to **sleep, charm** or **hold** magic. As they are mindless, no form of mind reading is of any use against them. Skeletons never fail morale, and thus always fight until destroyed.
+Skeletons are mindless **undead** created by an evil Wizard or Cleric, generally to guard a tomb or treasure hoard, or to act as guards for their creator. They take only ½ damage from edged weapons, and only a single point from arrows, bolts or sling stones (plus any magical bonus). As with all undead, they can be **Turned** by a Cleric, and are immune to **sleep, charm** or **hold** magic. As they are mindless, no form of mind reading is of any use against them. Skeletons never fail morale, and thus always fight until destroyed.
 
 </div>
 <div class="monster" data-tag="Snake, Giant Rattlesnake" >
@@ -5597,7 +5597,7 @@ Each round the original victim dances, he or she must save vs. Poison again or t
 | Damage: | 1d4 or by spell |
 | Movement: | 20' Fly 60' |
 | No. Appearing: | 3d6, Wild 3d6, Lair 5d8 |
-| Save As: | Magic-User: 4 (with Elf bonuses) |
+| Save As: | Wizard: 4 (with Elf bonuses) |
 | Morale: | 7 |
 | Treasure Type: | S |
 | XP: | 13 |
@@ -6532,12 +6532,12 @@ Zombies are the **undead** corpses of humanoid creatures. They are deathly slo
 | Damage:         | 1d4 or per spell    | 1d4 or per spell    |
 | Movement:       | 20'                 | 40'                 |
 | No. Appearing:  | 1                   | 1                   |
-| Save As:        | Magic-User: by HD   | Magic-User:  by HD  |
+| Save As:        | Wizard: by HD   | Wizard:  by HD  |
 | Morale:         | 9 to 12 (see below) | 12                  |
 | Treasure Type:  | None                | None                |
 | XP:             | 100 (variable)      | 37 (variable)       |
 
-A Zombraire is a free-willed undead Magic-User. Like
+A Zombraire is a free-willed undead Wizard. Like
 the zombie it resembles, a zombraire moves silently, is
 very strong, and must be literally hacked to pieces to be
 destroyed. However, it does not suffer the initiative

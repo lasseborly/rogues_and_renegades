@@ -234,13 +234,13 @@ generalTableSelect([2,6,0],[[ 2 , 2 ],[ 3 , 3 ],[ 4 , 4 ],[ 5 , 5 ],[ 6 , 6 ],[ 
 
 **Thief** encounters will be with a group of 1d6 Thieves, generally disguised as ordinary townsmen or sometimes as beggars. One Thief in the group will be from 2^nd^ to 4^th^ level, with the others being 1^st^ level only. They will seek to steal from the party, of course, unless watched very carefully.
 
-**Wizard** encounters will involve a Magic-User of 4^th^ through 7^th^ level, accompanied by 1d4-1 apprentices of 1^st^ level. The GM must decide on the temperament and mood of the wizard.
+**Wizard** encounters will involve a Wizard of 4^th^ through 7^th^ level, accompanied by 1d4-1 apprentices of 1^st^ level. The GM must decide on the temperament and mood of the wizard.
 
 ## Creating An NPC Party
 
 ### **Adventurers**
 
-A party of NPC adventurers will usually consist of 4-8 characters, as follows: 1d3 Fighters, 1d2 Thieves, 1d2 Clerics, and 1d2-1 Magic-Users. Usually the characters will all be of similar levels; after deciding what average level the party should be, you may wish to make a few of the characters lower levels (to reflect the usual "replacements" brought in when some characters die).
+A party of NPC adventurers will usually consist of 4-8 characters, as follows: 1d3 Fighters, 1d2 Thieves, 1d2 Clerics, and 1d2-1 Wizards. Usually the characters will all be of similar levels; after deciding what average level the party should be, you may wish to make a few of the characters lower levels (to reflect the usual "replacements" brought in when some characters die).
 
 The Game Master must choose the race(s) of the NPC adventurers to suit the region they are found in (or come from). Probably 80% or more of adventurers are Human, 10% are Dwarves, 6% are Halfling and the remaining 4% Elvish. If the NPC adventurer party is evil, the GM may choose to replace some party members with humanoid monsters such as orcs, hobgoblins, or gnolls.
 
@@ -276,21 +276,21 @@ Lower-ranking nobles (such as barons) will have a single wagon or carriage, draw
 
 A noble will usually be traveling with a little spending money; a type A treasure should be rolled to represent this. In this case, do not omit the magic items, as nobles will generally be more wealthy than the average party of men.
 
-Nobles are usually (70%) normal men; otherwise, roll 1d10: 1-6 indicates a Fighter, 7-8 indicates a Magic-User, 9 indicates a Cleric, and 10 indicates a Thief. (Clerical "nobles" are bishops, archbishops, and the like.) Roll 2d4-1 for the level of each "classed" noble.
+Nobles are usually (70%) normal men; otherwise, roll 1d10: 1-6 indicates a Fighter, 7-8 indicates a Wizard, 9 indicates a Cleric, and 10 indicates a Thief. (Clerical "nobles" are bishops, archbishops, and the like.) Roll 2d4-1 for the level of each "classed" noble.
 
 ### **Pilgrims**
 
 A party of pilgrims is on its way to (or from) a major religious locale or activity. Such a party will be led by a 1d4 Clerics of level 1-4 (roll for each).
 
-The remainder of the party is rather random in nature; most pilgrim groups include 3d6 normal men (or women if the religion allows women to go on pilgrimages), 1d6 Fighters of level 1-4 (roll for each) with chainmail and longsword, and 1d4 Thieves of level 1-4 (each of whom may be a genuine devout person, or possibly just on the lam). There is also a 50% chance of a single Magic-User of level 1-4 being with the party.
+The remainder of the party is rather random in nature; most pilgrim groups include 3d6 normal men (or women if the religion allows women to go on pilgrimages), 1d6 Fighters of level 1-4 (roll for each) with chainmail and longsword, and 1d4 Thieves of level 1-4 (each of whom may be a genuine devout person, or possibly just on the lam). There is also a 50% chance of a single Wizard of level 1-4 being with the party.
 
 Pilgrims usually travel light, carrying a single bag each and walking or riding mules or horses. The pilgrim party will most likely be bringing offerings of some sort to their destination; generate a type A treasure for this purpose. If magic items are indicated, they will most likely not be used by any of the NPCs as they have already been dedicated to the god or pantheon.
 
 ### **Magic Items for NPCs**
 
-NPCs will generally have magic items in proportion to their class and level; assume a 5% chance per level that any given Fighter, Thief or Cleric NPC will have a magic weapon or magic armor (roll for weapon and armor separately for each NPC). Regardless of level, a roll of 96-00 should be considered a failure. Magic-Users will have a Ring of Protection (roll the bonus as usual for the item) on a roll of 4% per level, and a magic dagger or walking staff on a roll of 3% per level.
+NPCs will generally have magic items in proportion to their class and level; assume a 5% chance per level that any given Fighter, Thief or Cleric NPC will have a magic weapon or magic armor (roll for weapon and armor separately for each NPC). Regardless of level, a roll of 96-00 should be considered a failure. Wizards will have a Ring of Protection (roll the bonus as usual for the item) on a roll of 4% per level, and a magic dagger or walking staff on a roll of 3% per level.
 
-In addition, assume a 2% per level chance that any given character will have a potion, and 3% per level that a Cleric or Magic-User will have a scroll of some sort.
+In addition, assume a 2% per level chance that any given character will have a potion, and 3% per level that a Cleric or Wizard will have a scroll of some sort.
 
 Finally, add up the levels of all members of the party, and use this number as a percentage chance that a Miscellaneous Magic item will be found among them. If the roll is made, divide the number by two and roll again; if the second roll is made, two such items are found. If the party has more than 3 members, you might wish to divide the number in half again and roll for a third such item. Assign the Miscellaneous Magic item or items to whichever party members seem most appropriate, or roll randomly if you can't decide.
 
@@ -343,7 +343,7 @@ all scores, the GM should probably allow it.
 
 ### Acquisition of Spells
 
-Clerics have an obvious advantage over Magic-Users, in
+Clerics have an obvious advantage over Wizards, in
 that, in theory, they have access to any spell of any
 level which they can cast. However, note that Clerics
 are limited in their spell selection based on their deity,
@@ -354,42 +354,42 @@ spell that is not allowed, the Game Master may choose
 to grant the character a different spell, or optionally (if
 the deity is angered) no spell at all for that "slot."
 
-Magic-Users begin play knowing two spells, **read magic**
+Wizards begin play knowing two spells, **read magic**
 plus one other (unless the GM grants more starting
 spells). Each time the character gains a level, they gain
 the ability to cast more spells; in addition, every other
-level the Magic-User gains access to the next higher
+level the Wizard gains access to the next higher
 level spells (until all levels are available). However,
 gaining the ability to cast these spells does not
-necessarily mean the Magic-User instantly learns new
+necessarily mean the Wizard instantly learns new
 spells.
 
-Magic-Users may learn spells by being taught by
-another Magic-User, or by studying another Magic-
+Wizards may learn spells by being taught by
+another Wizard, or by studying another Magic-
 User's spellbook. If being taught, a spell can be learned
-in a single day; researching another Magic-User's
+in a single day; researching another Wizard's
 spellbook takes one day per spell level. In either case,
 the spell learned must be transcribed into the Magic-
 User's own spellbook, at a cost of 500 gp per spell level
 transcribed.
 
-A Magic-User may add a new spell of any level they
+A Wizard may add a new spell of any level they
 may cast at any point; however, spells of higher levels
-may not be learned or added to the Magic-User's
-spellbook. The Magic-User must find a teacher or
-acquire a reference work (such as another Magic-User's
+may not be learned or added to the Wizard's
+spellbook. The Wizard must find a teacher or
+acquire a reference work (such as another Wizard's
 spellbook) in order to learn new spells, and the cost of
 such is in addition to the costs given above. Often a
-Magic-User will maintain a relationship with their
+Wizard will maintain a relationship with their
 original master, who will teach the character new spells
 either for free or in return for services. Sometimes two
-Magic-Users will agree to exchange known spells. In
-many cases the only option available to a Magic-User
-will be to pay another Magic-User (often an NPC)
+Wizards will agree to exchange known spells. In
+many cases the only option available to a Wizard
+will be to pay another Wizard (often an NPC)
 anywhere from 100 gp to 1000 gp per spell level in
 return for such training.
 
-Magic-Users may also create entirely new spells (or alter
+Wizards may also create entirely new spells (or alter
 existing spells); see the Magic Research rules, below, for
 details.
 
@@ -399,7 +399,7 @@ Several races and classes have weapon and/or armor restrictions applied to them.
 
 **Clerics:** The prohibition against edged weapons is a matter of faith for Clerics. Therefore, if a Cleric uses a prohibited weapon, he or she immediately loses access to his or her spells as well as the power to Turn the Undead. A higher-level NPC Cleric of the same faith must assign some quest to the miscreant which must be completed in order for the fallen Cleric to atone and regain his or her powers. If unrepentant, the character is changed permanently from a Cleric to a Fighter. Refigure the character's level, applying the current XP total to the Fighter table to determine this. Hit points and attack bonus remain the same; change the attack bonus only after a new level is gained as a Fighter, and roll Fighter hit dice as normal when levels are gained.
 
-**Magic-Users:** These characters are simply untrained in any weapon other than those normally allowed to them, and should suffer a -5 attack penalty when using any prohibited weapon. A Magic-User in armor can't cast spells at all; any such attempt fails, and the spell is lost.
+**Wizards:** These characters are simply untrained in any weapon other than those normally allowed to them, and should suffer a -5 attack penalty when using any prohibited weapon. A Wizard in armor can't cast spells at all; any such attempt fails, and the spell is lost.
 
 **Thieves:** Wearing armor heavier, more restrictive and/or noisier than leather armor prevents the use of any Thief ability, including the Sneak Attack ability. Thieves may choose to wear such armor, but this only makes them a poor excuse for a Fighter.
 
@@ -475,11 +475,11 @@ The player rolls 1d20 and adds his or her Ability Bonus for the score the GM thi
 
 ### Preparing Spells from Memory
 
-Sometimes a Magic-User will want to prepare spells, but his or her spellbook may be unavailable; this includes when the book has been destroyed or stolen as well as times when the Magic-User has been captured or trapped.
+Sometimes a Wizard will want to prepare spells, but his or her spellbook may be unavailable; this includes when the book has been destroyed or stolen as well as times when the Wizard has been captured or trapped.
 
-A Magic-User can always prepare **read magic** from memory. Other spells require an Intelligence ability roll, as described above, with the spell level as a penalty on the die roll.
+A Wizard can always prepare **read magic** from memory. Other spells require an Intelligence ability roll, as described above, with the spell level as a penalty on the die roll.
 
-Failure exhausts the spell slot being prepared, just as if it had been successfully prepared and then cast; so if a 5^th^ level Magic-User attempts to prepare **fireball** from memory, and fails, he or she will have no 3^rd^ level spells for the day.
+Failure exhausts the spell slot being prepared, just as if it had been successfully prepared and then cast; so if a 5^th^ level Wizard attempts to prepare **fireball** from memory, and fails, he or she will have no 3^rd^ level spells for the day.
 
 ### Thief Abilities
 
@@ -489,11 +489,11 @@ Some players of Thieves may wish to have more control over their Thief abilities
 
 ### General Rules for Research
 
-At some point a Magic-User or Cleric may wish to start creating magic items or inventing spells. This is termed **magical research**. For any research, Magic-User must have a tower or laboratory, while a Cleric requires a properly consecrated temple or church of his or her faith. In addition, there will be a cost for the creation of each item, a minimum time required to create it, and a given chance of success. If the roll fails, generally the time and money are wasted and the procedure must be started again from the beginning; however, consult the detailed rules below for exceptions.
+At some point a Wizard or Cleric may wish to start creating magic items or inventing spells. This is termed **magical research**. For any research, Wizard must have a tower or laboratory, while a Cleric requires a properly consecrated temple or church of his or her faith. In addition, there will be a cost for the creation of each item, a minimum time required to create it, and a given chance of success. If the roll fails, generally the time and money are wasted and the procedure must be started again from the beginning; however, consult the detailed rules below for exceptions.
 
 *In almost all cases, the Game Master should make this roll in secret.* There are many situations where the character (or the player) should not know whether the roll has actually failed, or whether the GM has decided the research is impossible for the character. The GM may decide to tell the player that the research is impossible if the roll succeeds; if the roll is a failure, that is all the player should be told.
 
-In general, Clerics may only create magic items reproducing the effects of Clerical spells; Clerics may also make enchanted weapons and armor, even those sorts which they may not use themselves (since they may be creating weapons or armor for other followers of their faith). Magic-Users may create any sort of magic item except for those reproducing Clerical spells for which no equivalent Magic-User spell exists.
+In general, Clerics may only create magic items reproducing the effects of Clerical spells; Clerics may also make enchanted weapons and armor, even those sorts which they may not use themselves (since they may be creating weapons or armor for other followers of their faith). Wizards may create any sort of magic item except for those reproducing Clerical spells for which no equivalent Wizard spell exists.
 
 Time spent doing magical research must be eight-hour workdays with interruptions lasting no more than two days. Longer interruptions result in automatic failure of the project.
 
@@ -501,13 +501,13 @@ The GM may, if he or she so desires, grant Experience Points to characters who s
 
 ### Spell Research
 
-Researching new spells is the most common type of magical research. A Magic-User may research a standard spell, removing the need for a teacher or reference; alternately, a Cleric or Magic-User may research an entirely new spell. Of course, no character may invent or research a spell of a level higher than he or she can cast.
+Researching new spells is the most common type of magical research. A Wizard may research a standard spell, removing the need for a teacher or reference; alternately, a Cleric or Wizard may research an entirely new spell. Of course, no character may invent or research a spell of a level higher than he or she can cast.
 
 If the character is inventing a spell outright, the GM must determine the spell's level and judge whether or not the spell is possible "as is." The GM does not have to tell the player whether the spell is possible, and in fact this may be preferable.
 
 The cost to research a spell is 1,000 gp per spell level for "standard" spells, or 2,000 gp per spell level for newly invented spells; in either case, one week is required per spell level to complete the research. The chance of success is 25%, plus 5% per level of the character, minus 10% per level of the spell; the maximum chance of success is 95%.
 
-If the research roll is successful, the character may add the spell to his or her spellbook (if a Magic-User) or may subsequently pray for the spell (if a Cleric). On a failure, the money and time are spent to no avail. Clerics of the same deity, faith or ethos may teach each other the prayers required to access new spells; this takes one hour per spell level. The procedure to exchange spells with other Magic-Users has already been explained (under Acquisition of Spells, above).
+If the research roll is successful, the character may add the spell to his or her spellbook (if a Wizard) or may subsequently pray for the spell (if a Cleric). On a failure, the money and time are spent to no avail. Clerics of the same deity, faith or ethos may teach each other the prayers required to access new spells; this takes one hour per spell level. The procedure to exchange spells with other Wizards has already been explained (under Acquisition of Spells, above).
 
 As mentioned above, the GM may decide that a proposed new spell is not "correct" for his or her campaign; too powerful, too low in level, etc. Rather than tell the player this, there are two strategies that may be used.
 
@@ -525,11 +525,11 @@ Special component requirements are entirely at the option of the Game Master, an
 
 ### Chance of Success
 
-Unless given differently below, the base chance of success creating a magic item is 15% plus 5% per level of the spellcaster, plus the spellcaster's full Intelligence (if a Magic-User) or Wisdom (if a Cleric). Thus, a 9^th^ level spellcaster with a 15 Prime Requisite has a base chance of 75%.
+Unless given differently below, the base chance of success creating a magic item is 15% plus 5% per level of the spellcaster, plus the spellcaster's full Intelligence (if a Wizard) or Wisdom (if a Cleric). Thus, a 9^th^ level spellcaster with a 15 Prime Requisite has a base chance of 75%.
 
 ### Spell Scrolls
 
-A spellcaster may create a scroll containing any spell he or she has access to (for a Magic-User, spells in his or her spellbook; for a Cleric, any spell the character might successfully pray for). The cost is 500 gp per spell level, and the time required is 1 day per spell level.
+A spellcaster may create a scroll containing any spell he or she has access to (for a Wizard, spells in his or her spellbook; for a Cleric, any spell the character might successfully pray for). The cost is 500 gp per spell level, and the time required is 1 day per spell level.
 
 Reduce the chance of success based on the level of the spell being inscribed, at a rate of -10% per level.
 
@@ -537,7 +537,7 @@ If the roll fails, the enchantment of the scroll has failed; however, if the cas
 
 ### Other Single-Use Items
 
-Scrolls (other than spell scrolls), potions, and a few other items (such as the **rod of cancellation**) are single-use items. These items may be created by Magic-Users or Clerics of the 7^th^ level or higher.
+Scrolls (other than spell scrolls), potions, and a few other items (such as the **rod of cancellation**) are single-use items. These items may be created by Wizards or Clerics of the 7^th^ level or higher.
 
 The chance of success is as given for scrolls, above, when the item being created reproduces a known spell (or when the GM decides a spell must be created, as described above). For other types of items, the GM should assign a spell level as he or she sees fit, and the cost and time required is doubled (making up for the spell research or knowledge required for spell-reproducing items). The time required is one week plus one day per spell level (or equivalent), and the cost to enchant the item is 50 gp per spell level, per day.
 
@@ -545,7 +545,7 @@ Potions are a special case; the character creating a potion may create a large b
 
 ### Permanent Magic Items
 
-Creating permanent magic items (rings, weapons, wands, staves, and most miscellaneous magic items) requires a Magic-User or Cleric of the 9^th^ level or higher.
+Creating permanent magic items (rings, weapons, wands, staves, and most miscellaneous magic items) requires a Wizard or Cleric of the 9^th^ level or higher.
 
 When enchanting an item with multiple abilities, each ability of the item requires a separate roll for success; the first failed roll ends the enchantment process. Such an item will still perform the powers or effects already successfully enchanted into it, but no further enchantment is possible.
 
@@ -586,13 +586,13 @@ When using the table above, don't count the first charge for cost or time purpos
 | All per day | x 5 | x 3 | - 30% |
 | All per week | x 4 | x 2 | - 20% |
 
-**Charges are generic:** This means that all the effects of the item draw power from the same pool of charges; most Magic-User staffs are in this category. Items with generic charges are automatically rechargeable; don't apply the normal adjustments for this feature. Instead, combine the normal costs for the charge pools of each effect (which must all have the same number of charges), and then divide the charge cost, time and chance adjustments by two. Thus, two effects sharing one pool costs the same as a single effect with a single pool.
+**Charges are generic:** This means that all the effects of the item draw power from the same pool of charges; most Wizard staffs are in this category. Items with generic charges are automatically rechargeable; don't apply the normal adjustments for this feature. Instead, combine the normal costs for the charge pools of each effect (which must all have the same number of charges), and then divide the charge cost, time and chance adjustments by two. Thus, two effects sharing one pool costs the same as a single effect with a single pool.
 
-**Item may be used by any class:** By default, magic items may only be used by the class that created them; so a **wand of fireballs** is normally usable only by Magic-Users, or a **staff of healing** only by Clerics. This feature allows the item to be used by any class of character, and involves assigning simple command words and gestures to the item. Adding this feature costs 1,000 gp per effect. Note that all the item's effects do not have to be covered; it is possible to create an item where some effects may be used by any class, but other effects may only be used by the creator's class.
+**Item may be used by any class:** By default, magic items may only be used by the class that created them; so a **wand of fireballs** is normally usable only by Wizards, or a **staff of healing** only by Clerics. This feature allows the item to be used by any class of character, and involves assigning simple command words and gestures to the item. Adding this feature costs 1,000 gp per effect. Note that all the item's effects do not have to be covered; it is possible to create an item where some effects may be used by any class, but other effects may only be used by the creator's class.
 
 **Item operates continuously or automatically:** This feature supersedes both the charges and item use features. The item works whenever properly worn, or activates automatically when required. A **ring of fire resistance** is a good example; also, the **ring of invisibility** is in this category. Adding this feature multiplies the final cost and time figures by five and applies a 40% penalty to the chance of success.
 
-Each feature above applied to a magic item will require a valuable, rare and/or magical material to support the enchantment. For example, a wand of fireballs has a spell effect that is powered by charges; these are two relatively ordinary features, so the Magic-User creating the item proposes a rare wood for the shaft and a 1,000 gp value ruby for the tip. The GM may, of course, require something more rare or valuable if the magic item is particularly powerful.
+Each feature above applied to a magic item will require a valuable, rare and/or magical material to support the enchantment. For example, a wand of fireballs has a spell effect that is powered by charges; these are two relatively ordinary features, so the Wizard creating the item proposes a rare wood for the shaft and a 1,000 gp value ruby for the tip. The GM may, of course, require something more rare or valuable if the magic item is particularly powerful.
 
 The base cost of a spell effect feature can be reduced by 25% by applying limits to the ability. For example, a **ring of charm dryad** is an example of limited **charm person** spell effect, which would qualify for the deduction. This does not affect the chance of success or the time required.
 

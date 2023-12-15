@@ -755,7 +755,7 @@ Druids of 7^th^ level and higher make potions as a Cleric, and Druids of 9^th^ l
 
 ### Introduction 
 
-This supplement provides information for playing Illusionists, a form of “specialist” Magic-User, under the Basic Fantasy Role-Playing Game rule system. If you do not already have a copy of the Basic Fantasy RPG Core Rules, please visit the website and download a copy.
+This supplement provides information for playing Illusionists, a form of “specialist” Wizard, under the Basic Fantasy Role-Playing Game rule system. If you do not already have a copy of the Basic Fantasy RPG Core Rules, please visit the website and download a copy.
 
 ### Class Description 
 
@@ -798,19 +798,19 @@ Distributed under the terms of the Open Game License version 1.0a
 | 19    | 1,800,000   | 9d4+10   | 6 | 5 | 5 | 4 | 3 | 3 |
 | 20    | 1,950,000   | 9d4+11   | 6 | 5 | 5 | 4 | 4 | 3 |
 
-Illusionists are "specialist" Magic-Users who focus on the creation and manipulation of illusions, whether visual, auditory, or mental, and at higher levels quasi-real things made of tangible shadow. Though "normal" Magic-Users can create illusions, those created by a true Illusionist are superior in quality and realism.
+Illusionists are "specialist" Wizards who focus on the creation and manipulation of illusions, whether visual, auditory, or mental, and at higher levels quasi-real things made of tangible shadow. Though "normal" Wizards can create illusions, those created by a true Illusionist are superior in quality and realism.
 
-The Prime Requisite for an Illusionist is Intelligence. The Illusionist is required to have an Intelligence score of 13 or higher. Illusionists are poor fighters, with fighting ability equivalent to normal Magic-Users. Likewise they are no more hardy than standard Magic-Users (d4 hit die). They may not wear any armor of any sort or use shields. Like other Magic-Users, they can utilize a walking staff (or cudgel) or dagger, and of course they may use magical weapons of those types. Otherwise, Illusionists can generally be treated as equivalent to Magic-Users for any situation not covered here.
+The Prime Requisite for an Illusionist is Intelligence. The Illusionist is required to have an Intelligence score of 13 or higher. Illusionists are poor fighters, with fighting ability equivalent to normal Wizards. Likewise they are no more hardy than standard Wizards (d4 hit die). They may not wear any armor of any sort or use shields. Like other Wizards, they can utilize a walking staff (or cudgel) or dagger, and of course they may use magical weapons of those types. Otherwise, Illusionists can generally be treated as equivalent to Wizards for any situation not covered here.
 
 Because of their expertise at creating and understanding illusions, Illusionists always gain an additional +2 on saves vs. any sort of illusion or phantasm.
 
-Illusionists produce magic much like other types of Magic-Users, but have different spell choices. They can learn spells from each other so long as the spells are available to both classes. Like other Magic-Users, a first level Illusionist begins play knowing **read magic** and one other spell of first level, recorded within a spell book. The GM may roll for the spell, assign it as he or she sees fit, or allow the player to choose it, at his or her option. See the **Illusionist Spells** section below for more details.
+Illusionists produce magic much like other types of Wizards, but have different spell choices. They can learn spells from each other so long as the spells are available to both classes. Like other Wizards, a first level Illusionist begins play knowing **read magic** and one other spell of first level, recorded within a spell book. The GM may roll for the spell, assign it as he or she sees fit, or allow the player to choose it, at his or her option. See the **Illusionist Spells** section below for more details.
 
 ### Illusionist Spells
 
-Illusionists cast spells through the exercise of knowledge and will, exactly as normal Magic-Users. They prepare spells by study of their spellbooks; each Illusionist has his or her own spellbook, containing the magical formulae for each spell the Illusionist has learned, written in a magical script that can only be read by the Illusionist who wrote it, or through the use of a special first-level spell: **read magic**. All Illusionists begin play with **read magic** as their first spell, and it is so ingrained that an Illusionist can prepare it without a spellbook. **Read magic** has a range of "touch" and is permanent with respect to any given magical work (spellbook or scroll).
+Illusionists cast spells through the exercise of knowledge and will, exactly as normal Wizards. They prepare spells by study of their spellbooks; each Illusionist has his or her own spellbook, containing the magical formulae for each spell the Illusionist has learned, written in a magical script that can only be read by the Illusionist who wrote it, or through the use of a special first-level spell: **read magic**. All Illusionists begin play with **read magic** as their first spell, and it is so ingrained that an Illusionist can prepare it without a spellbook. **Read magic** has a range of "touch" and is permanent with respect to any given magical work (spellbook or scroll).
 
-Illusionists may learn spells by being taught directly by another Illusionist or by studying another Illusionist's spellbook. The Illusionist may also learn appropriate spells from standard Magic-Users (or other arcane casters, if used); the spell always being at the level as it appears on the Illusionist Spell List. Likewise, a Magic-User may learn spells shared by the classes from an Illusionist. If being taught, a spell can be learned in a single day; researching another Illusionist's spellbook takes one day per spell level. Either way, the spell learned must be transcribed into the Illusionist's own spellbook, at a cost of 500 gp per spell level transcribed. A beginning Illusionist starts with a spellbook containing **read magic** and at least one other first-level spell, as determined by the Game Master, at no cost.
+Illusionists may learn spells by being taught directly by another Illusionist or by studying another Illusionist's spellbook. The Illusionist may also learn appropriate spells from standard Wizards (or other arcane casters, if used); the spell always being at the level as it appears on the Illusionist Spell List. Likewise, a Wizard may learn spells shared by the classes from an Illusionist. If being taught, a spell can be learned in a single day; researching another Illusionist's spellbook takes one day per spell level. Either way, the spell learned must be transcribed into the Illusionist's own spellbook, at a cost of 500 gp per spell level transcribed. A beginning Illusionist starts with a spellbook containing **read magic** and at least one other first-level spell, as determined by the Game Master, at no cost.
 
 Spells in **bold** are new to this supplement. Spells with an asterisk (*) following the name are reversible.
 
@@ -1156,7 +1156,7 @@ Illusionist 6
 
 Duration: special
 
-Magic-User 7
+Wizard 7
 
 This spell bestows the effect of an **invisibility** spell on all creatures within a 30-foot by 30-foot area. Each subject will remain invisible until he or she attacks or casts a spell. A subject that leaves the original area of effect remains invisible.
 
@@ -1340,7 +1340,7 @@ Illusionist 5
 
 Duration: special
 
-This spell functions like **advanced illusion**, except that this spell activates when a specific condition occurs. The caster sets the triggering condition when casting the spell. The event that triggers the illusion can be as general or as specific and detailed as desired, but must be based on an audible, tactile, olfactory, or visual trigger. The trigger cannot be based on some quality not normally obvious to the senses, such as religious belief or magical ability. For example, the spell could be set to trigger when a character wearing robes and a pointed hat enters an area, but not when a Magic-User enters the area.
+This spell functions like **advanced illusion**, except that this spell activates when a specific condition occurs. The caster sets the triggering condition when casting the spell. The event that triggers the illusion can be as general or as specific and detailed as desired, but must be based on an audible, tactile, olfactory, or visual trigger. The trigger cannot be based on some quality not normally obvious to the senses, such as religious belief or magical ability. For example, the spell could be set to trigger when a character wearing robes and a pointed hat enters an area, but not when a Wizard enters the area.
 
 The spell remains ready indefinitely. When triggered, the spell will last at most 1 round per caster level.
 
@@ -1508,7 +1508,7 @@ The effect can be used no more than a total of 30 rounds per day.
 
 Making Magic Items
 
-Illusionists follow the rules for magic-users for making magic items. Illusionists may make spell scrolls and any magic items on this page, as well as any other items the GM feels are appropriate.
+Illusionists follow the rules for wizards for making magic items. Illusionists may make spell scrolls and any magic items on this page, as well as any other items the GM feels are appropriate.
 
 ## Ranger and Paladin
 

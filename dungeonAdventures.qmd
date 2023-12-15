@@ -154,7 +154,7 @@ Dungeons and ruins frequently contain traps, including spear-throwers, covered p
 
 Normal characters have a chance equal to a roll of 1 on 1d6 to detect a trap if a search for one is made. Note that this is about a 16.7% chance; Thieves have a special ability to find and remove traps, which supersedes this roll, as does the stonework trap-finding ability of Dwarves. A Dwarven Thief is a special case; apply whichever trap-detection ability is higher. In all cases, a search for traps takes at least a turn per 10' square area. A single character may only effectively search a given area for traps once, even if the character has more than one trap-detection roll "type" allowed (such as the Dwarven Thief above).
 
-Trap detection may not be allowed if the trap is purely magical in nature; on the other hand, in such cases Magic-Users and/or Clerics may be able to detect magical traps at the given 1 in 1d6 chance, at the Game Master's option.
+Trap detection may not be allowed if the trap is purely magical in nature; on the other hand, in such cases Wizards and/or Clerics may be able to detect magical traps at the given 1 in 1d6 chance, at the Game Master's option.
 
 ### Secret Doors
 

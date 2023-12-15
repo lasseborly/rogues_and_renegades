@@ -291,13 +291,13 @@ generalTableSelect([1,100,0],[[1,3], [4,6], [7,8], [9,9 ], [10,15], [16,20], [21
 | 04-06 | Cleric Spell Scroll (2 Spells) |
 | 07-08 | Cleric Spell Scroll (3 Spells) |
 | 09 | Cleric Spell Scroll (4 Spells) |
-| 10-15 | Magic-User Spell Scroll (1 Spell) |
-| 16-20 | Magic-User Spell Scroll (2 Spells) |
-| 21-25 | Magic-User Spell Scroll (3 Spells) |
-| 26-29 | Magic-User Spell Scroll (4 Spells) |
-| 30-32 | Magic-User Spell Scroll (5 Spells) |
-| 33-34 | Magic-User Spell Scroll (6 Spells) |
-| 35 | Magic-User Spell Scroll (7 Spells) |
+| 10-15 | Wizard Spell Scroll (1 Spell) |
+| 16-20 | Wizard Spell Scroll (2 Spells) |
+| 21-25 | Wizard Spell Scroll (3 Spells) |
+| 26-29 | Wizard Spell Scroll (4 Spells) |
+| 30-32 | Wizard Spell Scroll (5 Spells) |
+| 33-34 | Wizard Spell Scroll (6 Spells) |
+| 35 | Wizard Spell Scroll (7 Spells) |
 | 36-40 | Cursed Scroll |
 | 41-46 | Protection from Elementals |
 | 47-56 | Protection from Lycanthropes |
@@ -536,13 +536,13 @@ Magic weapons are created with a variety of powers and will usually aid the wiel
 
 **Casts Light on Command:** By drawing the weapon and uttering a command word, the wielder may cause it to glow; it will then shed light with the same radius as a **light** spell. Sheathing or laying down the weapon, or speaking the command word again, dispels the effect. This power may be used as often as desired.
 
-**Charm Person:** This power allows the wielder to cast **charm person** once per day, as if by an 8^th^ level Magic-User, by brandishing the weapon, speaking a command word and gazing at the target creature. (The wielder's gaze does not have to be met for the spell to be cast.) The target creature is allowed saving throws just as described in the spell description.
+**Charm Person:** This power allows the wielder to cast **charm person** once per day, as if by an 8^th^ level Wizard, by brandishing the weapon, speaking a command word and gazing at the target creature. (The wielder's gaze does not have to be met for the spell to be cast.) The target creature is allowed saving throws just as described in the spell description.
 
 **Drains Energy:** A weapon with this power drains one life energy level on a hit, as described under **Energy Drain** in the **Encounter** section; up to 2d4 levels can be drained by a weapon with this power, after which time the weapon loses this power but retains any other magical effects or bonuses.
 
 **Flames on Command:** Upon command, the weapon will be sheathed in fire. The fire does not harm the wielder. The effect remains until the command is given again, or until the weapon is dropped or sheathed. While it flames, all damage done by the weapon is treated as fire damage, and an additional +1 bonus (in addition to the weapon's normal bonus) is added to damage when fighting trolls, treants, and other creatures especially vulnerable to fire. It casts light and burns just as if it were a torch.
 
-**Locate Objects:** This power allows the wielder to cast the spell **locate object** once per day, as if by an 8^th^ level Magic-User.
+**Locate Objects:** This power allows the wielder to cast the spell **locate object** once per day, as if by an 8^th^ level Wizard.
 
 **Special Enemy:** These weapons are created to combat a specific sort of creature, as rolled on the Special Ability table. When used against that specific enemy, the second listed bonus applies instead of the first; so a sword +1, +3 vs. Undead would provide +1 attack and damage against giant rats, but +3 attack and damage rolls against zombies.
 
@@ -624,11 +624,11 @@ A potion is an elixir concocted with a spell-like effect that affects only the d
 
 Most scrolls contain some sort of magic which is activated when read, and which may only be used once; the characters burn away as the words are read.
 
-**Spell Scrolls** are enchanted with one or more Cleric or Magic-User spells (never both sorts on the same scroll). Each spell can be used just once, though of course the same spell may appear multiple times on a single scroll. Use the table below to determine the spell level of each spell on a scroll. Only a Cleric can use a Clerical scroll, and only a Magic-User can use a Magic-User scroll.
+**Spell Scrolls** are enchanted with one or more Cleric or Wizard spells (never both sorts on the same scroll). Each spell can be used just once, though of course the same spell may appear multiple times on a single scroll. Use the table below to determine the spell level of each spell on a scroll. Only a Cleric can use a Clerical scroll, and only a Wizard can use a Wizard scroll.
 
-Magic-Users must cast **read magic** on a spell scroll before being able to use it; each scroll needs to be treated in this way just once, and the effect lasts indefinitely thereafter. If a Magic-User attempts to cast a spell from a scroll, and he or she does not know that spell, there is a 10% chance the spell will fail. If a spell on a scroll is of higher level than the highest level spell the Magic-User can cast, for each spell level of difference, add 10% to the chance of failure. For example, Aura the 3^rd^ level Magic-User attempts to cast **polymorph self** from a scroll. Aura is able to cast, at most, 2^nd^ level spells. **Polymorph self** is a 4^th^ level spell, so Aura has a chance of failure of 10% (she doesn't know the spell) plus 20% (2^nd^ level maximum vs. 4^th^ level spell), for a total of 30%.
+Wizards must cast **read magic** on a spell scroll before being able to use it; each scroll needs to be treated in this way just once, and the effect lasts indefinitely thereafter. If a Wizard attempts to cast a spell from a scroll, and he or she does not know that spell, there is a 10% chance the spell will fail. If a spell on a scroll is of higher level than the highest level spell the Wizard can cast, for each spell level of difference, add 10% to the chance of failure. For example, Aura the 3^rd^ level Wizard attempts to cast **polymorph self** from a scroll. Aura is able to cast, at most, 2^nd^ level spells. **Polymorph self** is a 4^th^ level spell, so Aura has a chance of failure of 10% (she doesn't know the spell) plus 20% (2^nd^ level maximum vs. 4^th^ level spell), for a total of 30%.
 
-Clerical scrolls are written in a normal language (being just specially enchanted prayers), so the Cleric merely needs to know the language in which the scroll is written in order to use it. Clerics suffer the same chance of failure as do Magic-Users, save that the 10% penalty assigned for not knowing the spell does not apply.
+Clerical scrolls are written in a normal language (being just specially enchanted prayers), so the Cleric merely needs to know the language in which the scroll is written in order to use it. Clerics suffer the same chance of failure as do Wizards, save that the 10% penalty assigned for not knowing the spell does not apply.
 
 #### Spell Scrolls: Spell Level
 
@@ -671,7 +671,7 @@ A ring is a circular metal band worn on the finger (no more than one ring per ha
 
 **Regeneration:** This ring grants the wearer the power of regeneration, exactly as described in the description of the troll, including the weakness with respect to acid and fire damage. However, only damage taken while wearing the ring is regenerated.
 
-**Spell Storing:** A ring of spell storing contains a number of Magic-User spells that the wearer can cast. Each spell has a caster level equal to the minimum level needed to cast that spell. Any class may wear and use this ring, but it can only be recharged by a Magic-User casting the appropriate spell into it. A table is provided below to determine how many spells, and what levels they are. A ring of spell storing must be recharged with the same spells that were placed into it when it was made; so a ring of two spell storing containing **fireball** and **fly** can only be recharged with those two spells. The ring magically imparts to the wearer the names of all spells stored within it. A ring found in a treasure hoard may be completely charged, or discharged, or partially charged, at the GM's option.
+**Spell Storing:** A ring of spell storing contains a number of Wizard spells that the wearer can cast. Each spell has a caster level equal to the minimum level needed to cast that spell. Any class may wear and use this ring, but it can only be recharged by a Wizard casting the appropriate spell into it. A table is provided below to determine how many spells, and what levels they are. A ring of spell storing must be recharged with the same spells that were placed into it when it was made; so a ring of two spell storing containing **fireball** and **fly** can only be recharged with those two spells. The ring magically imparts to the wearer the names of all spells stored within it. A ring found in a treasure hoard may be completely charged, or discharged, or partially charged, at the GM's option.
 
 | **d%** | **# of Spells**   | **d%** | **Level of Spell** |
 |----|----|----|----|
@@ -685,7 +685,7 @@ A ring is a circular metal band worn on the finger (no more than one ring per ha
 
 **Spell Turning:** This ring reflects spells cast directly at the wearer, but not area effect spells, back at the caster; so a **hold person** spell would be reflected, but not a **fireball**. It will reflect up to 2d6 spells before its power is exhausted.
 
-**Telekinesis:** The wearer of this ring can use the power of the spell **telekinesis**, as if cast by a 12^th^ level Magic-User. The effect may be used as many times per day as the wearer wishes, but lasts only as long as the wearer concentrates on it.
+**Telekinesis:** The wearer of this ring can use the power of the spell **telekinesis**, as if cast by a 12^th^ level Wizard. The effect may be used as many times per day as the wearer wishes, but lasts only as long as the wearer concentrates on it.
 
 **Water Walking:** This ring allows the wearer to walk on any liquid as if it were firm ground. Mud, oil, snow, quicksand, running water, ice, and even lava can be traversed easily, since the wearer's feet hover an inch or two above the surface. Molten lava will still cause the wearer damage from the heat since he or she is still near it. The wearer can walk, run, or otherwise move across the surface as if it were normal ground.
 
@@ -697,9 +697,9 @@ A ring is a circular metal band worn on the finger (no more than one ring per ha
 
 ### Wands, Staves and Rods
 
-A wand is a short stick, generally 12 to 18 inches long, imbued with the power to cast a specific spell or spell-like effect. A newly created wand has 20 charges, and each use of the wand depletes one of those charges; a wand found in a treasure hoard will have 2d10 charges remaining. If a wand generates an effect equivalent to a spell, assume the spell functions as if cast by a 6^th^ level caster, or the lowest level caster who could cast that spell (whichever is higher), unless otherwise noted. Wands are generally usable only by Magic-Users. Saving throws are rolled as normal, but on the Magic Wands column rather than the Spells column.
+A wand is a short stick, generally 12 to 18 inches long, imbued with the power to cast a specific spell or spell-like effect. A newly created wand has 20 charges, and each use of the wand depletes one of those charges; a wand found in a treasure hoard will have 2d10 charges remaining. If a wand generates an effect equivalent to a spell, assume the spell functions as if cast by a 6^th^ level caster, or the lowest level caster who could cast that spell (whichever is higher), unless otherwise noted. Wands are generally usable only by Wizards. Saving throws are rolled as normal, but on the Magic Wands column rather than the Spells column.
 
-A staff has a number of different (but often related) spell effects. A newly created staff has 30 charges, and each use of the staff depletes one or more of those charges. A staff found in a treasure hoard will have 3d10 charges remaining. Spell effects generated by a staff operate at 8^th^ level, or the lowest caster level the spell could be cast by, whichever is higher, unless otherwise stated. Staves are usable only by Magic-Users, except where noted. Saving throws against magic from a staff are rolled on the Spells column.
+A staff has a number of different (but often related) spell effects. A newly created staff has 30 charges, and each use of the staff depletes one or more of those charges. A staff found in a treasure hoard will have 3d10 charges remaining. Spell effects generated by a staff operate at 8^th^ level, or the lowest caster level the spell could be cast by, whichever is higher, unless otherwise stated. Staves are usable only by Wizards, except where noted. Saving throws against magic from a staff are rolled on the Spells column.
 
 A rod is a scepter-like item with a special power unlike that of any known spell. Rods are normally usable by any class.
 
@@ -796,7 +796,7 @@ works continually.
 the ability to read any language, including any form of
 magical script. Being able to read magic does not
 confer magical abilities upon the wearer, but if worn by
-a magic-user it grants the effects of **read magic**
+a wizard it grants the effects of **read magic**
 constantly. Note that when reading non-magical texts,
 the limitations described under the spell **read languages** apply to this device also.
 
@@ -869,7 +869,7 @@ remains within a 60' radius of the character who
 activated the device. If both skeletal and fleshy remains
 are available in the area of effect, skeletons will be
 animated in preference over zombies. If the user is a
-magic-user or cleric, the created undead may be
+wizard or cleric, the created undead may be
 controlled so long as that character retains the device.
 If played by a fighter or thief, the undead created will
 be uncontrolled, and will attack any living creatures
@@ -949,7 +949,7 @@ the device.
 
 **Scrying**: This device can be used to spy upon other
 people or locations, regardless of distance. A scrying
-device may only be used by Magic-Users. It can be
+device may only be used by Wizards. It can be
 used three times per day, for up to a turn each time.
 The chance of success when using a scrying device is as
 shown below. Total chances equal to or greater than
@@ -982,7 +982,7 @@ day.
 
 **Spell Storing**: These much sought-after devices each
 contain a number of spells which can be cast by the
-wearer. Most of them contain Magic-User spells, but 1
+wearer. Most of them contain Wizard spells, but 1
 in 10 contains Clerical spells instead. *No device may contain spells of both types*! Each spell stored in the device is cast as if by the lowest-level character who
 could normally cast the spell, but not less than 6th level
 in any case.
@@ -999,7 +999,7 @@ those two spells.
 The wearer of one of these devices automatically knows
 the names of the spells stored within it, but is not
 granted detailed knowledge of how each spell works. If
-the wearer is not a magic-user and no such character is
+the wearer is not a wizard and no such character is
 available to advise the wearer, there may be some
 difficulty in using it successfully (and safely).
 
@@ -1030,7 +1030,7 @@ same name).
 
 **Telekinesis**: The wearer of this device can use the
 power of the spell [telekinesis](allSpells.qmd#telekinesis), as if cast by a 12th level
-Magic-User. The effect may be used as many times per
+Wizard. The effect may be used as many times per
 day as the wearer wishes, but lasts only as long as the
 wearer concentrates on it.
 

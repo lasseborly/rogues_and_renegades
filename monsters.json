@@ -800,7 +800,7 @@
         "Damage:": "1d4",
         "Movement:": "40'",
         "No.\u00a0Appearing:": "Lair 1d6",
-        "Save As:": "Magic-User: 4",
+        "Save As:": "Wizard: 4",
         "Morale:": "6",
         "Treasure Type:": "D",
         "XP:": "100"
@@ -2829,7 +2829,7 @@
         "Damage:": "1d4 or by spell",
         "Movement:": "20\u2019 Fly 60\u2019",
         "No.\u00a0Appearing:": "3d6, Wild 3d6, Lair 5d8",
-        "Save As:": "Magic-User: 4 (with Elf bonuses)",
+        "Save As:": "Wizard: 4 (with Elf bonuses)",
         "Morale:": "7",
         "Treasure Type:": "S",
         "XP:": "13"
@@ -3245,7 +3245,7 @@
         "Damage:": "1d4 or per spell",
         "Movement:": "20\u2019",
         "No.\u00a0Appearing:": "1",
-        "Save As:": "Magic-User: by HD",
+        "Save As:": "Wizard: by HD",
         "Morale:": "9 to 12 (see below)",
         "Treasure Type:": "None",
         "XP:": "100 (variable)"
@@ -3258,7 +3258,7 @@
         "Damage:": "1d4 or per spell",
         "Movement:": "40\u2019",
         "No.\u00a0Appearing:": "1",
-        "Save As:": "Magic-User: by HD",
+        "Save As:": "Wizard: by HD",
         "Morale:": "12",
         "Treasure Type:": "None",
         "XP:": "37 (variable)"

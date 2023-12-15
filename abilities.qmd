@@ -16,7 +16,7 @@ Each character will have a score ranging from 3 to 18 in each of the following a
 
 **Strength:** As the name implies, this ability measures the character's raw physical power. Strength is the Prime Requisite for [Fighters](class.qmd#fighter). Apply the ability bonus or penalty for Strength to all attack and damage rolls in melee (hand to hand) combat. Note that a penalty here will not reduce damage from a successful attack below one point in any case (see the [Combat](combat.qmd#damage) section for details).
 
-**Intelligence:** This is the ability to learn and apply knowledge. Intelligence is the Prime Requisite for [Magic-Users](class.qmd#magic-users). The ability bonus for Intelligence is added to the number of [languages](abilities.qmd#languages) the character is able to learn to read and write; if the character has an Intelligence penalty, he or she cannot read more than a word or two, and will only know his or her native language.
+**Intelligence:** This is the ability to learn and apply knowledge. Intelligence is the Prime Requisite for [Wizards](class.qmd#wizards). The ability bonus for Intelligence is added to the number of [languages](abilities.qmd#languages) the character is able to learn to read and write; if the character has an Intelligence penalty, he or she cannot read more than a word or two, and will only know his or her native language.
 
 **Wisdom:** A combination of intuition, willpower and common sense. Wisdom is the Prime Requisite for [Clerics](class.qmd#cleric). The Wisdom bonus or penalty may apply to some saving throws vs. magical attacks, particularly those affecting the target's will.
 

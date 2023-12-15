@@ -22,7 +22,7 @@ When the party of adventurers comes in contact with potential enemies, time shif
 
 When surprise is possible, roll 1d6 for each side which might be surprised; most normal characters are surprised on a roll of 1-2. Surprised characters are unable to act for one round. Characters or creatures which are well hidden and prepared to perform an ambush surprise on a roll of 1-4 on 1d6. Some characters or creatures (such as Elves) are described as being less likely to be surprised; reduce the range by 1 for such creatures.
 
-For example: Darion the Human Fighter and Morningstar the Elven Fighter/Magic-User open a door and come face-to-face with a party of goblins. The GM rolls 1d6 for the goblins; on a 1-2 they are all surprised. Then the GM rolls 1d6 for Darion and Morningstar. If the roll is a 1, both of them are surprised; if the roll is a 2, only Darion is surprised. If the roll is 3 or more, neither of them are surprised.
+For example: Darion the Human Fighter and Morningstar the Elven Fighter/Wizard open a door and come face-to-face with a party of goblins. The GM rolls 1d6 for the goblins; on a 1-2 they are all surprised. Then the GM rolls 1d6 for Darion and Morningstar. If the roll is a 1, both of them are surprised; if the roll is a 2, only Darion is surprised. If the roll is 3 or more, neither of them are surprised.
 
 Surprised characters or creatures stand flat-footed for one round. They still defend themselves, so there is no penalty to Armor Class, but they cannot move nor attack during the round of surprise.
 
@@ -167,7 +167,7 @@ opponent is within reach
 
 To roll "to hit," the attacker rolls 1d20 and adds his or her attack bonus (AB), as shown on the Attack Bonus table, as well as **Strength** bonus (if performing a melee attack) or **Dexterity** bonus (if performing a missile or ranged attack) and any other adjustments required by the situation. If the total is equal to or greater than the opponent's Armor Class, the attack hits and damage is rolled. A natural "1" on the die roll is always a failure. A natural "20" is always a hit, if the opponent can be hit at all (for example, monsters that can only be hit by silver or magic weapons cannot be hit by normal weapons, so a natural "20" with a normal weapon will not hit such a monster).
 
-| Fighter Level | Cleric or Thief Level | Magic-User Level | Monster Hit Dice | Attack Bonus |
+| Fighter Level | Cleric or Thief Level | Wizard Level | Monster Hit Dice | Attack Bonus |
 |---|---|----|----|----|
 |  <em id="NM"> NM </em> |  |  | less than 1 | +0 |
 | 1 | 1-2 | 1-3 | 1 | +1 |
@@ -510,7 +510,7 @@ The GM should feel free to amend this rule as he or she wishes; for instance, a 
 | **18-19** | 9 | 7 | 6 | 11 | 9 |
 | **20** | 8 | 6 | 5 | 11 | 8 |
 
-: Magic User Saving Throws {#tbl-save-mage-2}
+: Wizard Saving Throws {#tbl-save-mage-2}
 
 | **Level** | Death Ray / Poison | Magic Wands | Paralysis / Petrify | Dragon Breath |Spells |
 |----|---|----|----|---|---|---|

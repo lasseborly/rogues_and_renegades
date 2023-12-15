@@ -118,7 +118,7 @@ The Prime Requisite for Fighters is Strength; a character must have a Strength s
 
 : Fighter Saving Throws {#tbl-save-fighter}
 
-## Magic Users
+## Wizard
 
 +-------+-------------+----------+----------+---+---+---+---+---+---+
 |       |             |          |          | Spell Lvl |   |   |   |
@@ -166,13 +166,13 @@ The Prime Requisite for Fighters is Strength; a character must have a Strength s
 | 20    | 1,950,000   | 9d4+11   | +7       | 6 | 5 | 5 | 4 | 4 | 3 |
 +-------+-------------+----------+----------+---+---+---+---+---+---+
 
-Magic-Users are those who seek and use knowledge of the arcane. They do magic not as the Cleric does, by faith in a greater power, but rather through insight and understanding.
+Wizards are those who seek and use knowledge of the arcane. They do magic not as the Cleric does, by faith in a greater power, but rather through insight and understanding.
 
-Magic-Users are the worst of all the classes at fighting; hours spent studying massive tomes of magic do not lead a character to become strong or adept with weapons. They are the least hardy, equal to Thieves at lower levels but quickly falling behind.
+Wizards are the worst of all the classes at fighting; hours spent studying massive tomes of magic do not lead a character to become strong or adept with weapons. They are the least hardy, equal to Thieves at lower levels but quickly falling behind.
 
-The Prime Requisite for Magic-Users is Intelligence; a character must have an Intelligence score of 9 or higher to become a Magic-User. The only weapons they become proficient with are the dagger and the walking staff (or cudgel). Magic-Users may not wear armor of any sort nor use a shield as such things interfere with spellcasting.
+The Prime Requisite for Wizards is Intelligence; a character must have an Intelligence score of 9 or higher to become a Wizard. The only weapons they become proficient with are the dagger and the walking staff (or cudgel). Wizards may not wear armor of any sort nor use a shield as such things interfere with spellcasting.
 
-A first level Magic-User begins play knowing [read magic](allSpells.qmd#read-magic) and one other spell of first level. These spells are written in a spellbook provided by his or her master. The GM may roll for the spell, assign it as he or she sees fit, or allow the player to choose it, at his or her option. See the [Spells](spells.qmd#magic-user-spells) section for more details.
+A first level Wizard begins play knowing [read magic](allSpells.qmd#read-magic) and one other spell of first level. These spells are written in a spellbook provided by his or her master. The GM may roll for the spell, assign it as he or she sees fit, or allow the player to choose it, at his or her option. See the [Spells](spells.qmd#wizard-spells) section for more details.
 
 | **Level** | Death Ray / Poison | Magic Wands | Paralysis / Petrify | Dragon Breath |Spells |
 |----|---|----|----|---|---|---|
@@ -188,7 +188,7 @@ A first level Magic-User begins play knowing [read magic](allSpells.qmd#read-ma
 | **18-19** | 9 | 7 | 6 | 11 | 9 |
 | **20** | 8 | 6 | 5 | 11 | 8 |
 
-: Magic User Saving Throws {#tbl-save-mage}
+: Wizard Saving Throws {#tbl-save-mage}
 
 ## Thief
 
@@ -218,7 +218,7 @@ A first level Magic-User begins play knowing [read magic](allSpells.qmd#read-ma
 
 Thieves are those who take what they want or need by stealth, disarming traps and picking locks to get to the gold they crave; or “borrowing” money from pockets, beltpouches, etc. right under the nose of the “mark” without the victim ever knowing.
 
-Thieves fight better than Magic-Users but not as well as Fighters. Avoidance of honest work leads Thieves to be less hardy than the other classes, though they do pull ahead of the Magic-Users at higher levels.
+Thieves fight better than Wizards but not as well as Fighters. Avoidance of honest work leads Thieves to be less hardy than the other classes, though they do pull ahead of the Wizards at higher levels.
 
 The Prime Requisite for Thieves is Dexterity; a character must have a Dexterity score of 9 or higher to become a Thief. They may use any weapon, but may not wear metal armor as it interferes with stealthy activities, nor may they use shields of any sort. Leather armor is acceptable, however.
 
@@ -287,6 +287,6 @@ The Sneak Attack can be performed with any melee (but not missile) weapon, or ma
 
 To become a member of a combination class, a character must meet the requirements of both classes. Combination class characters use the best attack bonus and the best saving throw values of their original two classes, but must gain experience equal to the combined requirements of both base classes to advance in levels. Elves are the only characters eligible to be a member of one of these combination classes:
 
-**Fighter/Magic-User:** These characters may both fight and cast magic spells; further, they are allowed to cast magic spells while wearing armor. These characters roll six-sided dice (d6) for hit points.
+**Fighter/Wizard:** These characters may both fight and cast magic spells; further, they are allowed to cast magic spells while wearing armor. These characters roll six-sided dice (d6) for hit points.
 
-**Magic-User/Thief:** Members of this combination class may cast spells while wearing leather armor, and may use any weapon. These characters roll four-sided dice (d4) for hit points.
+**Wizard/Thief:** Members of this combination class may cast spells while wearing leather armor, and may use any weapon. These characters roll four-sided dice (d4) for hit points.

@@ -52,11 +52,11 @@ Specialists are NPCs who may be hired by player characters to perform various ta
 
 A player character is limited in the number of specialists he or she can hire only by the amount of money they cost; Charisma does not affect this.
 
-**Alchemist:** *1,000 gp per month.*These characters are generally hired for one of two reasons: to make potions, or to assist a Magic-User with magical research.
+**Alchemist:** *1,000 gp per month.*These characters are generally hired for one of two reasons: to make potions, or to assist a Wizard with magical research.
 
-An alchemist can produce a potion, given the required materials and a sample or a written formula for the potion, in the same time and for the same cost as a Magic-User. They may also research new potions, but at twice the cost in time and materials as a Magic-User. Review the rules for [Magical Research](gm01.qmd#magical-research) for details.
+An alchemist can produce a potion, given the required materials and a sample or a written formula for the potion, in the same time and for the same cost as a Wizard. They may also research new potions, but at twice the cost in time and materials as a Wizard. Review the rules for [Magical Research](gm01.qmd#magical-research) for details.
 
-Alternately, a Magic-User seeking to create certain magic items may employ an alchemist as an assistant. In this case, the alchemist adds 15% to the Magic-User's chance of success.
+Alternately, a Wizard seeking to create certain magic items may employ an alchemist as an assistant. In this case, the alchemist adds 15% to the Wizard's chance of success.
 
 **Animal Trainer:** *250 to 750 gp per month.* Characters wishing to ride hippogriffs or employ carnivorous apes as guards will need the assistance of an animal trainer. The lowest cost above is for an average animal trainer, able to train one type of "normal" animal such as carnivorous apes; those able to train more than one sort of animal, or to train monstrous creatures such as hippogriffs, are more expensive to hire. The Game Master must decide how long it takes to train an animal; in some cases, animal training may take years, a fact the player characters may find inconvenient as well as expensive. A single animal trainer can train and manage no more than 5 animals at a time, though in most cases once an animal is fully trained, if it is put into service right away the animal trainer won't be needed to handle it any longer.
 

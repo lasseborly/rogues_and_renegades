@@ -4,7 +4,7 @@
 
 ### Introduction
 
-0 level spells are called **cantrips** when used by Magic-Users and related classes, and **orisons** when used by Clerics and related classes. A spell caster may cast a number of 0 level spells per day equal to his or her level plus ability bonus (Intelligence bonus for Magic-Users and related classes; Wisdom for Clerics and related classes). Since these spells take such a short amount of time to cast (due to their abbreviated verbal and somatic components), a character may cast one and take another action in the round at the same time. 0 level spells do not have to be prepared in advance, unlike more powerful magics.
+0 level spells are called **cantrips** when used by Wizards and related classes, and **orisons** when used by Clerics and related classes. A spell caster may cast a number of 0 level spells per day equal to his or her level plus ability bonus (Intelligence bonus for Wizards and related classes; Wisdom for Clerics and related classes). Since these spells take such a short amount of time to cast (due to their abbreviated verbal and somatic components), a character may cast one and take another action in the round at the same time. 0 level spells do not have to be prepared in advance, unlike more powerful magics.
 
 At the GM's option, a non-spellcaster character might be allowed to use cantrips, typically one plus his or her Intelligence modifier per day. Alternately, the number might be zero plus Intelligence modifier, making such characters more rare. Likewise, orisons may be allowed to non-Clerics who are very devout, with similar restrictions (using the Wisdom bonus rather than Intelligence). Such characters must take a whole round to cast one of these spells.
 
@@ -50,9 +50,9 @@ Cantrips typically have a range of 10 feet and a duration of instantaneous. As w
 
 **Water to Wine:** The cleric may turn one flask or mug of water to wine.
 
-#### Magic-User and Illusionist Cantrips
+#### Wizard and Illusionist Cantrips
 
-**Animate Tool:** A single, small tool (such as a quill pen, spoon, sewing needle, or small hammer) is animated by this cantrip. It will perform a single, repetitive task (such as writing dictated words, stirring a pot of soup, sewing the hem of a dress, or nailing boards into a house) for as long as a turn. The magic user must be able to perform the repeated action by hand himself. Weapons may not be animated by this cantrip, and objects animated may not be used as weapons.
+**Animate Tool:** A single, small tool (such as a quill pen, spoon, sewing needle, or small hammer) is animated by this cantrip. It will perform a single, repetitive task (such as writing dictated words, stirring a pot of soup, sewing the hem of a dress, or nailing boards into a house) for as long as a turn. The Wizard must be able to perform the repeated action by hand himself. Weapons may not be animated by this cantrip, and objects animated may not be used as weapons.
 
 **Clean\*:** A mage making use of this cantrip may clean, shine, dust, or polish a small object or surface of up to 1 square foot. Reversed, this becomes Dirty, which can make the same area dirty, tarnished, scuffed, or dusty
 
@@ -76,7 +76,7 @@ Cantrips typically have a range of 10 feet and a duration of instantaneous. As w
 
 #### Necromancer Cantrips
 
-Necromancers use the same list of cantrips as do Magic-Users. They also get three additional cantrips for their own use.
+Necromancers use the same list of cantrips as do Wizards. They also get three additional cantrips for their own use.
 
 **Bolster\*:**Undead within 10 feet of caster are harder to turn or command, being one point harder to affect (on Turning Table). The effect lasts one hour or until a Turning (or Command) attempt is made. Reversed, the cantrip makes undead one point easier for the same period.
 
@@ -598,7 +598,7 @@ In some instances, a Game Master may wish to allow characters to piece together 
 
 This document presents an alternative method for assigning background skills to characters in the Basic Fantasy Role-Playing Game. If you don't have a copy of the **Basic Fantasy RPG Core Rules**, please visit www.basicfantasy.org and download a copy... it's free!
 
-The **Basic Fantasy RPG Core Rules** allow you to create brave Fighters, devout Clerics, cunning Thieves, and brilliant Magic-Users for the sake of adventuring in varied fantasy worlds. But sometimes adventurers -- both during adventures and between them -- know how to do things other than fight, pray, sneak, or cast spells. These alternative and optional rules try to cover some of these secondary skills.
+The **Basic Fantasy RPG Core Rules** allow you to create brave Fighters, devout Clerics, cunning Thieves, and brilliant Wizards for the sake of adventuring in varied fantasy worlds. But sometimes adventurers -- both during adventures and between them -- know how to do things other than fight, pray, sneak, or cast spells. These alternative and optional rules try to cover some of these secondary skills.
 
 ### The Basis for These Rules
 
@@ -967,7 +967,7 @@ You can change another's behavior. If you make your skill check result, you may 
 
 A successful Leadership skill check will add +1 to the Retainer's Loyalty score. It can also be used to convince non-retainer NPCs to follow an order, but in this case, the NPCs will not follow the order if there is a good reason to not do so. The use of the Leadership skill upon an NPC does not shift their attitude to unfavorable afterward.
 
-#### Magic-User Class Skills
+#### Wizard Class Skills
 
 **Decipher Script** -- INT
 
