@@ -6,4 +6,4 @@ Treasure gained, counts as experience points at a rate of 1 GP = 1 XP. Experienc
 
 Training, sparring, practice, research etc. can be done at a rate of 400 XP = 1 Day.
 
-For example, if Barthal the Thief and Darion the Figther returns to town with 800 GP they can decide to divide the gold equally. Darion decides to buy himself a War Horse (200 GP) and spent the remaining 200 GP on sparring sessions for half a day (200 XP). Barthal decides to get himself a new Dagger (2 GP), store 198 GB in his hideout and spent the remaining 200 GP on dead bolt lock picking practice for half a day (200 XP).
+For example, if Barthal the Cleric and Darion the Figther returns to town with 800 GP they can decide to divide the gold equally. Darion decides to buy himself a War Horse (200 GP) and spent the remaining 200 GP on sparring sessions for half a day (200 XP). Barthal decides to get himself a new Maze (6 GP), store 194 GP in his temple and spent the remaining 200 GP on attending sermons for half a day (200 XP).
